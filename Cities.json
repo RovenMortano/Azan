@@ -1,12 +1,12 @@
 [
   {
     "Name": "Назрань",
-    "Latitude": "43,226",
-    "Longitude": "44,7732"
+    "Latitude": 43.226,
+    "Longitude": 44.7732
   },
   {
     "Name": "Москва",
-    "Latitude": "55,7522",
-    "Longitude": "37,6156"
+    "Latitude": 55.7522,
+    "Longitude": 37.6156
   }
 ]
