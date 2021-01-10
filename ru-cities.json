@@ -1,0 +1,8938 @@
+[
+  {
+    "name": "Абаза",
+    "subject": "Хакасия",
+    "district": "Сибирский",
+    "latitude": 52.65,
+    "longitude": 90.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Абакан",
+    "subject": "Хакасия",
+    "district": "Сибирский",
+    "latitude": 53.71667,
+    "longitude": 91.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Абдулино",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 53.68333,
+    "longitude": 53.65,
+    "timezone": 0
+  },
+  {
+    "name": "Абинск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.86667,
+    "longitude": 38.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Агидель",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 55.9,
+    "longitude": 53.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Агрыз",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 56.51667,
+    "longitude": 52.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Адыгейск",
+    "subject": "Адыгея",
+    "district": "Южный",
+    "latitude": 44.884525,
+    "longitude": 39.19202,
+    "timezone": 0
+  },
+  {
+    "name": "Азнакаево",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.85,
+    "longitude": 53.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Азов",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.1,
+    "longitude": 39.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Ак-Довурак",
+    "subject": "Тыва",
+    "district": "Сибирский",
+    "latitude": 51.16667,
+    "longitude": 90.6,
+    "timezone": 0
+  },
+  {
+    "name": "Аксай",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.26667,
+    "longitude": 39.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Алагир",
+    "subject": "Северная Осетия \u2014 Алания",
+    "district": "Северо-Кавказский",
+    "latitude": 43.04167,
+    "longitude": 44.21056,
+    "timezone": 0
+  },
+  {
+    "name": "Алапаевск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.85,
+    "longitude": 61.7,
+    "timezone": 0
+  },
+  {
+    "name": "Алатырь",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 54.85,
+    "longitude": 46.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Алдан",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 58.6,
+    "longitude": 125.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Алейск",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 52.5,
+    "longitude": 82.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Александров",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.39361,
+    "longitude": 38.715,
+    "timezone": 0
+  },
+  {
+    "name": "Александровск-Сахалинский",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 50.9,
+    "longitude": 142.15,
+    "timezone": 0
+  },
+  {
+    "name": "Александровск",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 59.16667,
+    "longitude": 57.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Алексеевка",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.63,
+    "longitude": 38.68639,
+    "timezone": 0
+  },
+  {
+    "name": "Алексин",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.5,
+    "longitude": 37.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Алзамай",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 55.55,
+    "longitude": 98.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Алупка",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 44.41972,
+    "longitude": 34.04306,
+    "timezone": 0
+  },
+  {
+    "name": "Алушта",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 44.66722,
+    "longitude": 34.39778,
+    "timezone": 0
+  },
+  {
+    "name": "Альметьевск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.9,
+    "longitude": 52.3,
+    "timezone": 0
+  },
+  {
+    "name": "Амурск",
+    "subject": "Хабаровский край",
+    "district": "Дальневосточный",
+    "latitude": 50.21667,
+    "longitude": 136.9,
+    "timezone": 0
+  },
+  {
+    "name": "Анадырь",
+    "subject": "Чукотский АО",
+    "district": "Дальневосточный",
+    "latitude": 64.73333,
+    "longitude": 177.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Анапа",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.89444,
+    "longitude": 37.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Ангарск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 52.56667,
+    "longitude": 103.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Андреаполь",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.65,
+    "longitude": 32.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Анжеро-Судженск",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 56.08333,
+    "longitude": 86.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Анива",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 46.71667,
+    "longitude": 142.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Апатиты",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 67.5675,
+    "longitude": 33.39333,
+    "timezone": 0
+  },
+  {
+    "name": "Апрелевка",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.53333,
+    "longitude": 37.05,
+    "timezone": 0
+  },
+  {
+    "name": "Апшеронск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.46083,
+    "longitude": 39.74056,
+    "timezone": 0
+  },
+  {
+    "name": "Арамиль",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.7,
+    "longitude": 60.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Аргун",
+    "subject": "Чечня",
+    "district": "Северо-Кавказский",
+    "latitude": 43.29444,
+    "longitude": 45.88389,
+    "timezone": 0
+  },
+  {
+    "name": "Ардатов",
+    "subject": "Мордовия",
+    "district": "Приволжский",
+    "latitude": 54.85,
+    "longitude": 46.23333,
+    "timezone": 0
+  },
+  {
+    "name": "Ардон",
+    "subject": "Северная Осетия \u2014 Алания",
+    "district": "Северо-Кавказский",
+    "latitude": 43.17278,
+    "longitude": 44.29222,
+    "timezone": 0
+  },
+  {
+    "name": "Арзамас",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.38333,
+    "longitude": 43.8,
+    "timezone": 0
+  },
+  {
+    "name": "Аркадак",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.93333,
+    "longitude": 43.5,
+    "timezone": 0
+  },
+  {
+    "name": "Армавир",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45,
+    "longitude": 41.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Армянск",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 46.10694,
+    "longitude": 33.69306,
+    "timezone": 0
+  },
+  {
+    "name": "Арсеньев",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 44.16667,
+    "longitude": 133.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Арск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 56.09056,
+    "longitude": 49.87639,
+    "timezone": 0
+  },
+  {
+    "name": "Артём",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 43.35,
+    "longitude": 132.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Артёмовск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 54.35,
+    "longitude": 93.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Артёмовский",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.33639,
+    "longitude": 61.89194,
+    "timezone": 0
+  },
+  {
+    "name": "Архангельск",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 64.55,
+    "longitude": 40.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Асбест",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.01027679,
+    "longitude": 61.45639038,
+    "timezone": 0
+  },
+  {
+    "name": "Асино",
+    "subject": "Томская область",
+    "district": "Сибирский",
+    "latitude": 57,
+    "longitude": 86.15,
+    "timezone": 0
+  },
+  {
+    "name": "Астрахань",
+    "subject": "Астраханская область",
+    "district": "Южный",
+    "latitude": 46.33333,
+    "longitude": 48.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Аткарск",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.86667,
+    "longitude": 45,
+    "timezone": 0
+  },
+  {
+    "name": "Ахтубинск",
+    "subject": "Астраханская область",
+    "district": "Южный",
+    "latitude": 48.28333,
+    "longitude": 46.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Ачинск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.26667,
+    "longitude": 90.5,
+    "timezone": 0
+  },
+  {
+    "name": "Аша",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55,
+    "longitude": 57.25,
+    "timezone": 0
+  },
+  {
+    "name": "Бабаево",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.38333,
+    "longitude": 35.95,
+    "timezone": 0
+  },
+  {
+    "name": "Бабушкин",
+    "subject": "Бурятия",
+    "district": "Сибирский",
+    "latitude": 51.71667,
+    "longitude": 105.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Бавлы",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.4,
+    "longitude": 53.25,
+    "timezone": 0
+  },
+  {
+    "name": "Багратионовск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.38333,
+    "longitude": 20.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Байкальск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 51.51722,
+    "longitude": 104.15611,
+    "timezone": 0
+  },
+  {
+    "name": "Баймак",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 52.58333,
+    "longitude": 58.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Бакал",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.93333,
+    "longitude": 58.8,
+    "timezone": 0
+  },
+  {
+    "name": "Баксан",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.683333,
+    "longitude": 43.533333,
+    "timezone": 0
+  },
+  {
+    "name": "Балабаново",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 55.18333,
+    "longitude": 36.65,
+    "timezone": 0
+  },
+  {
+    "name": "Балаково",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 52.03333,
+    "longitude": 47.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Балахна",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.48083,
+    "longitude": 43.54028,
+    "timezone": 0
+  },
+  {
+    "name": "Балашиха",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.8,
+    "longitude": 37.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Балашов",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.55,
+    "longitude": 43.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Балей",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 51.57694,
+    "longitude": 116.64917,
+    "timezone": 0
+  },
+  {
+    "name": "Балтийск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.65,
+    "longitude": 19.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Барабинск",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.35,
+    "longitude": 78.35,
+    "timezone": 0
+  },
+  {
+    "name": "Барнаул",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 53.347361,
+    "longitude": 83.77833,
+    "timezone": 0
+  },
+  {
+    "name": "Барыш",
+    "subject": "Ульяновская область",
+    "district": "Приволжский",
+    "latitude": 53.65,
+    "longitude": 47.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Батайск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.13333,
+    "longitude": 39.75,
+    "timezone": 0
+  },
+  {
+    "name": "Бахчисарай",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 44.75278,
+    "longitude": 33.86083,
+    "timezone": 0
+  },
+  {
+    "name": "Бежецк",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.78333,
+    "longitude": 36.7,
+    "timezone": 0
+  },
+  {
+    "name": "Белая Калитва",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 48.17472,
+    "longitude": 40.79306,
+    "timezone": 0
+  },
+  {
+    "name": "Белая Холуница",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.83333,
+    "longitude": 50.85,
+    "timezone": 0
+  },
+  {
+    "name": "Белгород",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.6,
+    "longitude": 36.6,
+    "timezone": 0
+  },
+  {
+    "name": "Белебей",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 54.1,
+    "longitude": 54.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Белинский",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 52.96667,
+    "longitude": 43.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Белово",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 54.41667,
+    "longitude": 86.3,
+    "timezone": 0
+  },
+  {
+    "name": "Белогорск",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 50.91667,
+    "longitude": 128.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Белогорск",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.05444,
+    "longitude": 34.60222,
+    "timezone": 0
+  },
+  {
+    "name": "Белозерск",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 60.03333,
+    "longitude": 37.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Белокуриха",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 52,
+    "longitude": 84.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Беломорск",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 64.51667,
+    "longitude": 34.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Белоозёрский",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.46139,
+    "longitude": 38.44222,
+    "timezone": 0
+  },
+  {
+    "name": "Белорецк",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 53.96667,
+    "longitude": 58.4,
+    "timezone": 0
+  },
+  {
+    "name": "Белореченск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.76667,
+    "longitude": 39.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Белоусово",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 55.09167,
+    "longitude": 36.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Белоярский",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 63.71667,
+    "longitude": 66.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Белый",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 55.83333,
+    "longitude": 32.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Белёв",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.8,
+    "longitude": 36.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Бердск",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 54.75,
+    "longitude": 83.1,
+    "timezone": 0
+  },
+  {
+    "name": "Березники",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 59.40806,
+    "longitude": 56.80528,
+    "timezone": 0
+  },
+  {
+    "name": "Берёзовский",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 55.66667,
+    "longitude": 86.25,
+    "timezone": 0
+  },
+  {
+    "name": "Берёзовский",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.9,
+    "longitude": 60.8,
+    "timezone": 0
+  },
+  {
+    "name": "Беслан",
+    "subject": "Северная Осетия \u2014 Алания",
+    "district": "Северо-Кавказский",
+    "latitude": 43.18889,
+    "longitude": 44.521691,
+    "timezone": 0
+  },
+  {
+    "name": "Бийск",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 52.51667,
+    "longitude": 85.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Бикин",
+    "subject": "Хабаровский край",
+    "district": "Дальневосточный",
+    "latitude": 46.81667,
+    "longitude": 134.25,
+    "timezone": 0
+  },
+  {
+    "name": "Билибино",
+    "subject": "Чукотский АО",
+    "district": "Дальневосточный",
+    "latitude": 68.05,
+    "longitude": 166.45,
+    "timezone": 0
+  },
+  {
+    "name": "Биробиджан",
+    "subject": "Еврейская АО",
+    "district": "Дальневосточный",
+    "latitude": 48.78333,
+    "longitude": 132.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Бирск",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 55.41667,
+    "longitude": 55.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Бирюсинск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 55.95,
+    "longitude": 97.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Бирюч",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.65,
+    "longitude": 38.4,
+    "timezone": 0
+  },
+  {
+    "name": "Благовещенск",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 50.25778,
+    "longitude": 127.53639,
+    "timezone": 0
+  },
+  {
+    "name": "Благовещенск",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 55.03333,
+    "longitude": 55.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Благодарный",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 45.1029039,
+    "longitude": 43.4251513,
+    "timezone": 0
+  },
+  {
+    "name": "Бобров",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.09444,
+    "longitude": 40.03222,
+    "timezone": 0
+  },
+  {
+    "name": "Богданович",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.78333,
+    "longitude": 62.05,
+    "timezone": 0
+  },
+  {
+    "name": "Богородицк",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.76667,
+    "longitude": 38.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Богородск",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.09972,
+    "longitude": 43.50722,
+    "timezone": 0
+  },
+  {
+    "name": "Боготол",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.2,
+    "longitude": 89.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Богучар",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 49.93333,
+    "longitude": 40.55,
+    "timezone": 0
+  },
+  {
+    "name": "Бодайбо",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 57.85,
+    "longitude": 114.2,
+    "timezone": 0
+  },
+  {
+    "name": "Бокситогорск",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.47333,
+    "longitude": 33.84806,
+    "timezone": 0
+  },
+  {
+    "name": "Болгар",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.96667,
+    "longitude": 49.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Бологое",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.87083,
+    "longitude": 34.07361,
+    "timezone": 0
+  },
+  {
+    "name": "Болотное",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.66667,
+    "longitude": 84.4,
+    "timezone": 0
+  },
+  {
+    "name": "Болохово",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.08333,
+    "longitude": 37.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Болхов",
+    "subject": "Орловская область",
+    "district": "Центральный",
+    "latitude": 53.45,
+    "longitude": 36,
+    "timezone": 0
+  },
+  {
+    "name": "Большой Камень",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 43.11667,
+    "longitude": 132.35,
+    "timezone": 0
+  },
+  {
+    "name": "Бор",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.36028,
+    "longitude": 44.05917,
+    "timezone": 0
+  },
+  {
+    "name": "Борзя",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 50.38333,
+    "longitude": 116.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Борисоглебск",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.36667,
+    "longitude": 42.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Боровичи",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 58.38694,
+    "longitude": 33.91139,
+    "timezone": 0
+  },
+  {
+    "name": "Боровск",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 55.2,
+    "longitude": 36.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Бородино",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 55.9,
+    "longitude": 94.9,
+    "timezone": 0
+  },
+  {
+    "name": "Братск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 56.11667,
+    "longitude": 101.6,
+    "timezone": 0
+  },
+  {
+    "name": "Бронницы",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.42278,
+    "longitude": 38.25889,
+    "timezone": 0
+  },
+  {
+    "name": "Брянск",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.25,
+    "longitude": 34.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Бугульма",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.53333,
+    "longitude": 52.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Бугуруслан",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 53.61667,
+    "longitude": 52.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Будённовск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.79,
+    "longitude": 44.14,
+    "timezone": 0
+  },
+  {
+    "name": "Бузулук",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 52.76667,
+    "longitude": 52.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Буинск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.96667,
+    "longitude": 48.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Буй",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 58.48333,
+    "longitude": 41.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Буйнакск",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 42.81667,
+    "longitude": 47.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Бутурлиновка",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 50.825,
+    "longitude": 40.58889,
+    "timezone": 0
+  },
+  {
+    "name": "Валдай",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 57.96667,
+    "longitude": 33.25,
+    "timezone": 0
+  },
+  {
+    "name": "Валуйки",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.18333,
+    "longitude": 38.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Велиж",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.6,
+    "longitude": 31.2,
+    "timezone": 0
+  },
+  {
+    "name": "Великие Луки",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 56.35,
+    "longitude": 30.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Великий Новгород",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 58.525,
+    "longitude": 31.275,
+    "timezone": 0
+  },
+  {
+    "name": "Великий Устюг",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 60.75889,
+    "longitude": 46.30389,
+    "timezone": 0
+  },
+  {
+    "name": "Вельск",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 61.06667,
+    "longitude": 42.1,
+    "timezone": 0
+  },
+  {
+    "name": "Венёв",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.35,
+    "longitude": 38.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Верещагино",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.06667,
+    "longitude": 54.65,
+    "timezone": 0
+  },
+  {
+    "name": "Верея",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.33333,
+    "longitude": 36.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Верхнеуральск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 53.88333,
+    "longitude": 59.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Верхний Тагил",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.38333,
+    "longitude": 59.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Верхний Уфалей",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 56.05,
+    "longitude": 60.23333,
+    "timezone": 0
+  },
+  {
+    "name": "Верхняя Пышма",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.96667,
+    "longitude": 60.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Верхняя Салда",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.05,
+    "longitude": 60.55,
+    "timezone": 0
+  },
+  {
+    "name": "Верхняя Тура",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.3574333,
+    "longitude": 59.8224444,
+    "timezone": 0
+  },
+  {
+    "name": "Верхотурье",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.86667,
+    "longitude": 60.8,
+    "timezone": 0
+  },
+  {
+    "name": "Верхоянск",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 67.55,
+    "longitude": 133.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Весьегонск",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 58.65,
+    "longitude": 37.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Ветлуга",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 57.85556,
+    "longitude": 45.78111,
+    "timezone": 0
+  },
+  {
+    "name": "Видное",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.55,
+    "longitude": 37.7,
+    "timezone": 0
+  },
+  {
+    "name": "Вилюйск",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 63.75,
+    "longitude": 121.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Вилючинск",
+    "subject": "Камчатский край",
+    "district": "Дальневосточный",
+    "latitude": 52.93333,
+    "longitude": 158.4,
+    "timezone": 0
+  },
+  {
+    "name": "Вихоревка",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 56.11667,
+    "longitude": 101.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Вичуга",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.2,
+    "longitude": 41.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Владивосток",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 43.11667,
+    "longitude": 131.9,
+    "timezone": 0
+  },
+  {
+    "name": "Владикавказ",
+    "subject": "Северная Осетия \u2014 Алания",
+    "district": "Северо-Кавказский",
+    "latitude": 43.01667,
+    "longitude": 44.683315,
+    "timezone": 0
+  },
+  {
+    "name": "Владимир",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.13333,
+    "longitude": 40.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Волгоград",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 48.71167,
+    "longitude": 44.51389,
+    "timezone": 0
+  },
+  {
+    "name": "Волгодонск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.54,
+    "longitude": 42.20722,
+    "timezone": 0
+  },
+  {
+    "name": "Волгореченск",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 57.43333,
+    "longitude": 41.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Волжск",
+    "subject": "Марий Эл",
+    "district": "Приволжский",
+    "latitude": 55.86667,
+    "longitude": 48.35,
+    "timezone": 0
+  },
+  {
+    "name": "Волжский",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 48.78333,
+    "longitude": 44.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Вологда",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.21667,
+    "longitude": 39.9,
+    "timezone": 0
+  },
+  {
+    "name": "Володарск",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.23333,
+    "longitude": 43.2,
+    "timezone": 0
+  },
+  {
+    "name": "Волоколамск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.03333,
+    "longitude": 35.95,
+    "timezone": 0
+  },
+  {
+    "name": "Волосово",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.45,
+    "longitude": 29.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Волхов",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.91667,
+    "longitude": 32.35,
+    "timezone": 0
+  },
+  {
+    "name": "Волчанск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 59.93333,
+    "longitude": 60.05,
+    "timezone": 0
+  },
+  {
+    "name": "Вольск",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 52.05,
+    "longitude": 47.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Воркута",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 67.5,
+    "longitude": 64.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Воронеж",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.67167,
+    "longitude": 39.21056,
+    "timezone": 0
+  },
+  {
+    "name": "Ворсма",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.98333,
+    "longitude": 43.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Воскресенск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.32333,
+    "longitude": 38.68056,
+    "timezone": 0
+  },
+  {
+    "name": "Воткинск",
+    "subject": "Удмуртия",
+    "district": "Приволжский",
+    "latitude": 57.05,
+    "longitude": 54,
+    "timezone": 0
+  },
+  {
+    "name": "Всеволожск",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.01667,
+    "longitude": 30.65,
+    "timezone": 0
+  },
+  {
+    "name": "Вуктыл",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 63.86667,
+    "longitude": 57.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Выборг",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.70917,
+    "longitude": 28.74417,
+    "timezone": 0
+  },
+  {
+    "name": "Выкса",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.31944,
+    "longitude": 42.17306,
+    "timezone": 0
+  },
+  {
+    "name": "Высоковск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.31667,
+    "longitude": 36.55,
+    "timezone": 0
+  },
+  {
+    "name": "Высоцк",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.61667,
+    "longitude": 28.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Вытегра",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 61,
+    "longitude": 36.45,
+    "timezone": 0
+  },
+  {
+    "name": "Вышний Волочёк",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.58333,
+    "longitude": 34.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Вяземский",
+    "subject": "Хабаровский край",
+    "district": "Дальневосточный",
+    "latitude": 47.53333,
+    "longitude": 134.75,
+    "timezone": 0
+  },
+  {
+    "name": "Вязники",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.24333,
+    "longitude": 42.12917,
+    "timezone": 0
+  },
+  {
+    "name": "Вязьма",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.21028,
+    "longitude": 34.285,
+    "timezone": 0
+  },
+  {
+    "name": "Вятские Поляны",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 56.218417,
+    "longitude": 51.068583,
+    "timezone": 0
+  },
+  {
+    "name": "Гаврилов Посад",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 56.56667,
+    "longitude": 40.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Гаврилов-Ям",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 57.3,
+    "longitude": 39.85,
+    "timezone": 0
+  },
+  {
+    "name": "Гагарин",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.55,
+    "longitude": 35,
+    "timezone": 0
+  },
+  {
+    "name": "Гаджиево",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 69.25528,
+    "longitude": 33.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Гай",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.46667,
+    "longitude": 58.45,
+    "timezone": 0
+  },
+  {
+    "name": "Галич",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 58.38333,
+    "longitude": 42.35,
+    "timezone": 0
+  },
+  {
+    "name": "Гатчина",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.56667,
+    "longitude": 30.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Гвардейск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.65,
+    "longitude": 21.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Гдов",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 58.73333,
+    "longitude": 27.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Геленджик",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.56083,
+    "longitude": 38.07667,
+    "timezone": 0
+  },
+  {
+    "name": "Георгиевск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.15,
+    "longitude": 43.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Глазов",
+    "subject": "Удмуртия",
+    "district": "Приволжский",
+    "latitude": 58.14083,
+    "longitude": 52.67417,
+    "timezone": 0
+  },
+  {
+    "name": "Голицыно",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.61472,
+    "longitude": 36.98722,
+    "timezone": 0
+  },
+  {
+    "name": "Горбатов",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.13333,
+    "longitude": 43.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Горно-Алтайск",
+    "subject": "Алтай",
+    "district": "Сибирский",
+    "latitude": 51.96,
+    "longitude": 85.96,
+    "timezone": 0
+  },
+  {
+    "name": "Горнозаводск",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.38333,
+    "longitude": 58.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Горняк",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 50.993028,
+    "longitude": 81.467934,
+    "timezone": 0
+  },
+  {
+    "name": "Городец",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.65028,
+    "longitude": 43.47028,
+    "timezone": 0
+  },
+  {
+    "name": "Городище",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.26667,
+    "longitude": 45.7,
+    "timezone": 0
+  },
+  {
+    "name": "Городовиковск",
+    "subject": "Калмыкия",
+    "district": "Южный",
+    "latitude": 46.08333,
+    "longitude": 41.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Гороховец",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.20278,
+    "longitude": 42.6925,
+    "timezone": 0
+  },
+  {
+    "name": "Горячий Ключ",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.63333,
+    "longitude": 39.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Грайворон",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.48333,
+    "longitude": 35.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Гремячинск",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.56667,
+    "longitude": 57.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Грозный",
+    "subject": "Чечня",
+    "district": "Северо-Кавказский",
+    "latitude": 43.31667,
+    "longitude": 45.7,
+    "timezone": 0
+  },
+  {
+    "name": "Грязи",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 52.5,
+    "longitude": 39.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Грязовец",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 58.88333,
+    "longitude": 40.25,
+    "timezone": 0
+  },
+  {
+    "name": "Губаха",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.86667,
+    "longitude": 57.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Губкин",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 51.28333,
+    "longitude": 37.55,
+    "timezone": 0
+  },
+  {
+    "name": "Губкинский",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 64.43333,
+    "longitude": 76.5,
+    "timezone": 0
+  },
+  {
+    "name": "Гудермес",
+    "subject": "Чечня",
+    "district": "Северо-Кавказский",
+    "latitude": 43.355298,
+    "longitude": 46.099175,
+    "timezone": 0
+  },
+  {
+    "name": "Гуково",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 48.05,
+    "longitude": 39.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Гулькевичи",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.36028,
+    "longitude": 40.69444,
+    "timezone": 0
+  },
+  {
+    "name": "Гурьевск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.76667,
+    "longitude": 20.6,
+    "timezone": 0
+  },
+  {
+    "name": "Гурьевск",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 54.28333,
+    "longitude": 85.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Гусев",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.58333,
+    "longitude": 22.2,
+    "timezone": 0
+  },
+  {
+    "name": "Гусиноозёрск",
+    "subject": "Бурятия",
+    "district": "Сибирский",
+    "latitude": 51.28556,
+    "longitude": 106.52917,
+    "timezone": 0
+  },
+  {
+    "name": "Гусь-Хрустальный",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.61667,
+    "longitude": 40.65,
+    "timezone": 0
+  },
+  {
+    "name": "Давлеканово",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 54.21667,
+    "longitude": 55.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Дагестанские Огни",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 42.11667,
+    "longitude": 48.2,
+    "timezone": 0
+  },
+  {
+    "name": "Далматово",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 56.26667,
+    "longitude": 62.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Дальнегорск",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 44.56667,
+    "longitude": 135.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Дальнереченск",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 45.93333,
+    "longitude": 133.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Данилов",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 58.18333,
+    "longitude": 40.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Данков",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 53.25,
+    "longitude": 39.15,
+    "timezone": 0
+  },
+  {
+    "name": "Дегтярск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.7,
+    "longitude": 60.1,
+    "timezone": 0
+  },
+  {
+    "name": "Дедовск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.86667,
+    "longitude": 37.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Демидов",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.26667,
+    "longitude": 31.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Дербент",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 42.06917,
+    "longitude": 48.29583,
+    "timezone": 0
+  },
+  {
+    "name": "Десногорск",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 54.1530861,
+    "longitude": 33.2902917,
+    "timezone": 0
+  },
+  {
+    "name": "Джанкой",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.70861,
+    "longitude": 34.39333,
+    "timezone": 0
+  },
+  {
+    "name": "Дзержинск",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.23333,
+    "longitude": 43.45,
+    "timezone": 0
+  },
+  {
+    "name": "Дзержинский",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.63333,
+    "longitude": 37.85,
+    "timezone": 0
+  },
+  {
+    "name": "Дивногорск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 55.95,
+    "longitude": 92.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Дигора",
+    "subject": "Северная Осетия \u2014 Алания",
+    "district": "Северо-Кавказский",
+    "latitude": 43.15,
+    "longitude": 44.15,
+    "timezone": 0
+  },
+  {
+    "name": "Димитровград",
+    "subject": "Ульяновская область",
+    "district": "Приволжский",
+    "latitude": 54.23333,
+    "longitude": 49.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Дмитриев",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 52.12889,
+    "longitude": 35.07556,
+    "timezone": 0
+  },
+  {
+    "name": "Дмитров",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.34667,
+    "longitude": 37.52167,
+    "timezone": 0
+  },
+  {
+    "name": "Дмитровск",
+    "subject": "Орловская область",
+    "district": "Центральный",
+    "latitude": 52.505504,
+    "longitude": 35.141478,
+    "timezone": 0
+  },
+  {
+    "name": "Дно",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 57.83333,
+    "longitude": 29.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Добрянка",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.45,
+    "longitude": 56.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Долгопрудный",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.93333,
+    "longitude": 37.5,
+    "timezone": 0
+  },
+  {
+    "name": "Долинск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 47.31667,
+    "longitude": 142.8,
+    "timezone": 0
+  },
+  {
+    "name": "Домодедово",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.44389,
+    "longitude": 37.75806,
+    "timezone": 0
+  },
+  {
+    "name": "Донецк",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 48.3369194,
+    "longitude": 39.9448917,
+    "timezone": 0
+  },
+  {
+    "name": "Донской",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.96667,
+    "longitude": 38.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Дорогобуж",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 54.92,
+    "longitude": 33.30778,
+    "timezone": 0
+  },
+  {
+    "name": "Дрезна",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.74444,
+    "longitude": 38.84944,
+    "timezone": 0
+  },
+  {
+    "name": "Дубна",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.75,
+    "longitude": 37.15,
+    "timezone": 0
+  },
+  {
+    "name": "Дубовка",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 49.05,
+    "longitude": 44.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Дудинка",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 69.4,
+    "longitude": 86.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Духовщина",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.2,
+    "longitude": 32.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Дюртюли",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 55.48333,
+    "longitude": 54.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Дятьково",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.6,
+    "longitude": 34.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Евпатория",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.2,
+    "longitude": 33.35833,
+    "timezone": 0
+  },
+  {
+    "name": "Егорьевск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.38333,
+    "longitude": 39.03361,
+    "timezone": 0
+  },
+  {
+    "name": "Ейск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 46.71056,
+    "longitude": 38.27778,
+    "timezone": 0
+  },
+  {
+    "name": "Екатеринбург",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.83333,
+    "longitude": 60.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Елабуга",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.76667,
+    "longitude": 52.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Елец",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 52.61667,
+    "longitude": 38.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Елизово",
+    "subject": "Камчатский край",
+    "district": "Дальневосточный",
+    "latitude": 53.18333,
+    "longitude": 158.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Ельня",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 54.56667,
+    "longitude": 33.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Еманжелинск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.75,
+    "longitude": 61.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Емва",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 62.58333,
+    "longitude": 50.85,
+    "timezone": 0
+  },
+  {
+    "name": "Енисейск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 58.46667,
+    "longitude": 92.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Ермолино",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 55.20556,
+    "longitude": 36.57,
+    "timezone": 0
+  },
+  {
+    "name": "Ершов",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.35,
+    "longitude": 48.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Ессентуки",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.04306,
+    "longitude": 42.86417,
+    "timezone": 0
+  },
+  {
+    "name": "Ефремов",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.149167,
+    "longitude": 38.082585,
+    "timezone": 0
+  },
+  {
+    "name": "Железноводск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.13333,
+    "longitude": 43.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Железногорск-Илимский",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 56.58333,
+    "longitude": 104.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Железногорск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.25,
+    "longitude": 93.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Железногорск",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 52.339174,
+    "longitude": 35.351582,
+    "timezone": 0
+  },
+  {
+    "name": "Жердевка",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 51.83333,
+    "longitude": 41.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Жигулёвск",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.4,
+    "longitude": 49.5,
+    "timezone": 0
+  },
+  {
+    "name": "Жиздра",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 53.75028,
+    "longitude": 34.73611,
+    "timezone": 0
+  },
+  {
+    "name": "Жирновск",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.98028,
+    "longitude": 44.78083,
+    "timezone": 0
+  },
+  {
+    "name": "Жуков",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 55.03333,
+    "longitude": 36.75,
+    "timezone": 0
+  },
+  {
+    "name": "Жуковка",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.53333,
+    "longitude": 33.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Жуковский",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.60111,
+    "longitude": 38.11611,
+    "timezone": 0
+  },
+  {
+    "name": "Завитинск",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 50.11667,
+    "longitude": 129.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Заводоуковск",
+    "subject": "Тюменская область",
+    "district": "Уральский",
+    "latitude": 56.5,
+    "longitude": 66.55,
+    "timezone": 0
+  },
+  {
+    "name": "Заволжск",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.48333,
+    "longitude": 42.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Заволжье",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.6425,
+    "longitude": 43.39278,
+    "timezone": 0
+  },
+  {
+    "name": "Задонск",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 52.38333,
+    "longitude": 38.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Заинск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.3,
+    "longitude": 52.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Закаменск",
+    "subject": "Бурятия",
+    "district": "Сибирский",
+    "latitude": 50.38333,
+    "longitude": 103.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Заозёрный",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 55.96667,
+    "longitude": 94.7,
+    "timezone": 0
+  },
+  {
+    "name": "Заозёрск",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 69.4,
+    "longitude": 32.45,
+    "timezone": 0
+  },
+  {
+    "name": "Западная Двина",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.26667,
+    "longitude": 32.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Заполярный",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 69.41667,
+    "longitude": 30.8,
+    "timezone": 0
+  },
+  {
+    "name": "Зарайск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.76528,
+    "longitude": 38.88361,
+    "timezone": 0
+  },
+  {
+    "name": "Заречный",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.2,
+    "longitude": 45.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Заречный",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.81667,
+    "longitude": 61.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Заринск",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 53.7,
+    "longitude": 84.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Звенигово",
+    "subject": "Марий Эл",
+    "district": "Приволжский",
+    "latitude": 55.96667,
+    "longitude": 48.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Звенигород",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.73333,
+    "longitude": 36.85,
+    "timezone": 0
+  },
+  {
+    "name": "Зверево",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 48.01667,
+    "longitude": 40.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Зеленогорск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.1,
+    "longitude": 94.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Зеленоградск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.95,
+    "longitude": 20.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Зеленодольск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.85,
+    "longitude": 48.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Зеленокумск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.4070115,
+    "longitude": 43.8731235,
+    "timezone": 0
+  },
+  {
+    "name": "Зерноград",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 46.846525,
+    "longitude": 40.3040333,
+    "timezone": 0
+  },
+  {
+    "name": "Зея",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 53.73333,
+    "longitude": 127.25,
+    "timezone": 0
+  },
+  {
+    "name": "Зима",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 53.91667,
+    "longitude": 102.05,
+    "timezone": 0
+  },
+  {
+    "name": "Златоуст",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.16667,
+    "longitude": 59.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Злынка",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.43333,
+    "longitude": 31.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Змеиногорск",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 51.16667,
+    "longitude": 82.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Знаменск",
+    "subject": "Астраханская область",
+    "district": "Южный",
+    "latitude": 48.58333,
+    "longitude": 45.75,
+    "timezone": 0
+  },
+  {
+    "name": "Зубцов",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.16667,
+    "longitude": 34.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Зуевка",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.403333,
+    "longitude": 51.130361,
+    "timezone": 0
+  },
+  {
+    "name": "Ивангород",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.375,
+    "longitude": 28.20528,
+    "timezone": 0
+  },
+  {
+    "name": "Иваново",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57,
+    "longitude": 41,
+    "timezone": 0
+  },
+  {
+    "name": "Ивантеевка",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.97,
+    "longitude": 37.92,
+    "timezone": 0
+  },
+  {
+    "name": "Ивдель",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 60.68333,
+    "longitude": 60.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Игарка",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 67.46667,
+    "longitude": 86.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Ижевск",
+    "subject": "Удмуртия",
+    "district": "Приволжский",
+    "latitude": 56.85306,
+    "longitude": 53.21222,
+    "timezone": 0
+  },
+  {
+    "name": "Избербаш",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 42.56667,
+    "longitude": 47.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Изобильный",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 45.36667,
+    "longitude": 41.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Иланский",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.23333,
+    "longitude": 96.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Инза",
+    "subject": "Ульяновская область",
+    "district": "Приволжский",
+    "latitude": 53.85,
+    "longitude": 46.35,
+    "timezone": 0
+  },
+  {
+    "name": "Иннополис",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.763633,
+    "longitude": 48.736553,
+    "timezone": 0
+  },
+  {
+    "name": "Инсар",
+    "subject": "Мордовия",
+    "district": "Приволжский",
+    "latitude": 53.86667,
+    "longitude": 44.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Инта",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 66.0398139,
+    "longitude": 60.1315194,
+    "timezone": 0
+  },
+  {
+    "name": "Ипатово",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 45.71667,
+    "longitude": 42.9,
+    "timezone": 0
+  },
+  {
+    "name": "Ирбит",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.66667,
+    "longitude": 63.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Иркутск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 52.28333,
+    "longitude": 104.3,
+    "timezone": 0
+  },
+  {
+    "name": "Исилькуль",
+    "subject": "Омская область",
+    "district": "Сибирский",
+    "latitude": 54.90889,
+    "longitude": 71.26056,
+    "timezone": 0
+  },
+  {
+    "name": "Искитим",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 54.63333,
+    "longitude": 83.3,
+    "timezone": 0
+  },
+  {
+    "name": "Истра",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.91667,
+    "longitude": 36.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Ишим",
+    "subject": "Тюменская область",
+    "district": "Уральский",
+    "latitude": 56.11667,
+    "longitude": 69.5,
+    "timezone": 0
+  },
+  {
+    "name": "Ишимбай",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 53.45444,
+    "longitude": 56.04389,
+    "timezone": 0
+  },
+  {
+    "name": "Йошкар-Ола",
+    "subject": "Марий Эл",
+    "district": "Приволжский",
+    "latitude": 56.63278,
+    "longitude": 47.89583,
+    "timezone": 0
+  },
+  {
+    "name": "Кадников",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.5,
+    "longitude": 40.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Казань",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.79083,
+    "longitude": 49.11444,
+    "timezone": 0
+  },
+  {
+    "name": "Калач-на-Дону",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 48.68333,
+    "longitude": 43.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Калач",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 50.42583,
+    "longitude": 41.01556,
+    "timezone": 0
+  },
+  {
+    "name": "Калачинск",
+    "subject": "Омская область",
+    "district": "Сибирский",
+    "latitude": 55.05,
+    "longitude": 74.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Калининград",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.71667,
+    "longitude": 20.5,
+    "timezone": 0
+  },
+  {
+    "name": "Калининск",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.5,
+    "longitude": 44.45,
+    "timezone": 0
+  },
+  {
+    "name": "Калтан",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 53.51667,
+    "longitude": 87.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Калуга",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.53333,
+    "longitude": 36.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Калязин",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.23333,
+    "longitude": 37.85,
+    "timezone": 0
+  },
+  {
+    "name": "Камбарка",
+    "subject": "Удмуртия",
+    "district": "Приволжский",
+    "latitude": 56.26667,
+    "longitude": 54.2,
+    "timezone": 0
+  },
+  {
+    "name": "Каменка",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.18333,
+    "longitude": 44.05,
+    "timezone": 0
+  },
+  {
+    "name": "Каменногорск",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.95081,
+    "longitude": 29.130882,
+    "timezone": 0
+  },
+  {
+    "name": "Каменск-Уральский",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.4,
+    "longitude": 61.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Каменск-Шахтинский",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 48.31667,
+    "longitude": 40.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Камень-на-Оби",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 53.79194,
+    "longitude": 81.34861,
+    "timezone": 0
+  },
+  {
+    "name": "Камешково",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.34917,
+    "longitude": 40.99778,
+    "timezone": 0
+  },
+  {
+    "name": "Камызяк",
+    "subject": "Астраханская область",
+    "district": "Южный",
+    "latitude": 46.11556,
+    "longitude": 48.07694,
+    "timezone": 0
+  },
+  {
+    "name": "Камышин",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.08333,
+    "longitude": 45.4,
+    "timezone": 0
+  },
+  {
+    "name": "Камышлов",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.85,
+    "longitude": 62.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Канаш",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 55.50694,
+    "longitude": 47.49139,
+    "timezone": 0
+  },
+  {
+    "name": "Кандалакша",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 67.15694,
+    "longitude": 32.41167,
+    "timezone": 0
+  },
+  {
+    "name": "Канск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.2,
+    "longitude": 95.7,
+    "timezone": 0
+  },
+  {
+    "name": "Карабаново",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.30889,
+    "longitude": 38.70139,
+    "timezone": 0
+  },
+  {
+    "name": "Карабаш",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.48333,
+    "longitude": 60.2,
+    "timezone": 0
+  },
+  {
+    "name": "Карабулак",
+    "subject": "Ингушетия",
+    "district": "Северо-Кавказский",
+    "latitude": 43.306285,
+    "longitude": 44.909763,
+    "timezone": 0
+  },
+  {
+    "name": "Карасук",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 53.73333,
+    "longitude": 78.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Карачаевск",
+    "subject": "Карачаево-Черкесия",
+    "district": "Северо-Кавказский",
+    "latitude": 43.769713,
+    "longitude": 41.911369,
+    "timezone": 0
+  },
+  {
+    "name": "Карачев",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.11667,
+    "longitude": 34.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Каргат",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.2,
+    "longitude": 80.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Каргополь",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 61.5,
+    "longitude": 38.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Карпинск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 59.76667,
+    "longitude": 60,
+    "timezone": 0
+  },
+  {
+    "name": "Карталы",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 53.05,
+    "longitude": 60.65,
+    "timezone": 0
+  },
+  {
+    "name": "Касимов",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.95,
+    "longitude": 41.39722,
+    "timezone": 0
+  },
+  {
+    "name": "Касли",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.88333,
+    "longitude": 60.75,
+    "timezone": 0
+  },
+  {
+    "name": "Каспийск",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 42.88333,
+    "longitude": 47.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Катав-Ивановск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.75,
+    "longitude": 58.2,
+    "timezone": 0
+  },
+  {
+    "name": "Катайск",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 56.3,
+    "longitude": 62.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Качканар",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.7,
+    "longitude": 59.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Кашин",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.35,
+    "longitude": 37.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Кашира",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.83333,
+    "longitude": 38.15,
+    "timezone": 0
+  },
+  {
+    "name": "Кедровый",
+    "subject": "Томская область",
+    "district": "Сибирский",
+    "latitude": 57.56667,
+    "longitude": 79.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Кемерово",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 55.35417,
+    "longitude": 86.08972,
+    "timezone": 0
+  },
+  {
+    "name": "Кемь",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 64.95,
+    "longitude": 34.6,
+    "timezone": 0
+  },
+  {
+    "name": "Керчь",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.33861,
+    "longitude": 36.46806,
+    "timezone": 0
+  },
+  {
+    "name": "Кизел",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 59.05,
+    "longitude": 57.65,
+    "timezone": 0
+  },
+  {
+    "name": "Кизилюрт",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 43.2,
+    "longitude": 46.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Кизляр",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 43.85,
+    "longitude": 46.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Кимовск",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.96667,
+    "longitude": 38.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Кимры",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.86667,
+    "longitude": 37.35,
+    "timezone": 0
+  },
+  {
+    "name": "Кингисепп",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.36667,
+    "longitude": 28.6,
+    "timezone": 0
+  },
+  {
+    "name": "Кинель",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.23333,
+    "longitude": 50.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Кинешма",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.45,
+    "longitude": 42.15,
+    "timezone": 0
+  },
+  {
+    "name": "Киреевск",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.93333,
+    "longitude": 37.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Киренск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 57.78333,
+    "longitude": 108.1,
+    "timezone": 0
+  },
+  {
+    "name": "Киржач",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.15,
+    "longitude": 38.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Кириллов",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.86667,
+    "longitude": 38.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Кириши",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.45,
+    "longitude": 32.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Киров",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.08333,
+    "longitude": 34.3,
+    "timezone": 0
+  },
+  {
+    "name": "Киров",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.6,
+    "longitude": 49.65,
+    "timezone": 0
+  },
+  {
+    "name": "Кировград",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.43333,
+    "longitude": 60.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Кирово-Чепецк",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.55,
+    "longitude": 50.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Кировск",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.86667,
+    "longitude": 30.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Кировск",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 67.61417,
+    "longitude": 33.67167,
+    "timezone": 0
+  },
+  {
+    "name": "Кирс",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 59.337167,
+    "longitude": 52.245472,
+    "timezone": 0
+  },
+  {
+    "name": "Кирсанов",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 52.65,
+    "longitude": 42.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Киселёвск",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 53.98333,
+    "longitude": 86.7,
+    "timezone": 0
+  },
+  {
+    "name": "Кисловодск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 43.90333,
+    "longitude": 42.72444,
+    "timezone": 0
+  },
+  {
+    "name": "Клин",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.33389,
+    "longitude": 36.7125,
+    "timezone": 0
+  },
+  {
+    "name": "Клинцы",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.75278,
+    "longitude": 32.23611,
+    "timezone": 0
+  },
+  {
+    "name": "Княгинино",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.81667,
+    "longitude": 45.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Ковдор",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 67.55944,
+    "longitude": 30.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Ковров",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.36056,
+    "longitude": 41.31972,
+    "timezone": 0
+  },
+  {
+    "name": "Ковылкино",
+    "subject": "Мордовия",
+    "district": "Приволжский",
+    "latitude": 54.03333,
+    "longitude": 43.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Когалым",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 62.26667,
+    "longitude": 74.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Кодинск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 58.6,
+    "longitude": 99.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Козельск",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.03333,
+    "longitude": 35.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Козловка",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 55.83333,
+    "longitude": 48.25,
+    "timezone": 0
+  },
+  {
+    "name": "Козьмодемьянск",
+    "subject": "Марий Эл",
+    "district": "Приволжский",
+    "latitude": 56.33333,
+    "longitude": 46.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Кола",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 68.88306,
+    "longitude": 33.02194,
+    "timezone": 0
+  },
+  {
+    "name": "Кологрив",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 58.8252278,
+    "longitude": 44.311444,
+    "timezone": 0
+  },
+  {
+    "name": "Коломна",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.09389,
+    "longitude": 38.76806,
+    "timezone": 0
+  },
+  {
+    "name": "Колпашево",
+    "subject": "Томская область",
+    "district": "Сибирский",
+    "latitude": 58.31667,
+    "longitude": 82.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Кольчугино",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.3,
+    "longitude": 39.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Коммунар",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.625,
+    "longitude": 30.4,
+    "timezone": 0
+  },
+  {
+    "name": "Комсомольск-на-Амуре",
+    "subject": "Хабаровский край",
+    "district": "Дальневосточный",
+    "latitude": 50.55,
+    "longitude": 137,
+    "timezone": 0
+  },
+  {
+    "name": "Комсомольск",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.03333,
+    "longitude": 40.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Конаково",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.7,
+    "longitude": 36.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Кондопога",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 62.2,
+    "longitude": 34.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Кондрово",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.8,
+    "longitude": 35.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Константиновск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.58333,
+    "longitude": 41.1,
+    "timezone": 0
+  },
+  {
+    "name": "Копейск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.1,
+    "longitude": 61.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Кораблино",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 53.91667,
+    "longitude": 40.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Кореновск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.46667,
+    "longitude": 39.45,
+    "timezone": 0
+  },
+  {
+    "name": "Коркино",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.88333,
+    "longitude": 61.4,
+    "timezone": 0
+  },
+  {
+    "name": "Королёв",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.91667,
+    "longitude": 37.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Короча",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.81361,
+    "longitude": 37.18139,
+    "timezone": 0
+  },
+  {
+    "name": "Корсаков",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 46.63333,
+    "longitude": 142.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Коряжма",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 61.3,
+    "longitude": 47.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Костерёво",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.93333,
+    "longitude": 39.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Костомукша",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 64.58333,
+    "longitude": 30.6,
+    "timezone": 0
+  },
+  {
+    "name": "Кострома",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 57.76667,
+    "longitude": 40.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Котельники",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.6625,
+    "longitude": 37.86722,
+    "timezone": 0
+  },
+  {
+    "name": "Котельниково",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 47.63333,
+    "longitude": 43.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Котельнич",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.3,
+    "longitude": 48.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Котлас",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 61.25,
+    "longitude": 46.65,
+    "timezone": 0
+  },
+  {
+    "name": "Котово",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.31667,
+    "longitude": 44.8,
+    "timezone": 0
+  },
+  {
+    "name": "Котовск",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 52.58333,
+    "longitude": 41.5,
+    "timezone": 0
+  },
+  {
+    "name": "Кохма",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 56.93333,
+    "longitude": 41.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Красавино",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 60.96667,
+    "longitude": 46.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Красноармейск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.12278,
+    "longitude": 38.14611,
+    "timezone": 0
+  },
+  {
+    "name": "Красноармейск",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.01667,
+    "longitude": 45.7,
+    "timezone": 0
+  },
+  {
+    "name": "Красновишерск",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 60.4,
+    "longitude": 57.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Красногорск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.81667,
+    "longitude": 37.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Краснодар",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.03333,
+    "longitude": 38.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Краснозаводск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.43806,
+    "longitude": 38.22944,
+    "timezone": 0
+  },
+  {
+    "name": "Краснознаменск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.95,
+    "longitude": 22.5,
+    "timezone": 0
+  },
+  {
+    "name": "Краснознаменск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.6,
+    "longitude": 37.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Краснокаменск",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 50.1,
+    "longitude": 118.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Краснокамск",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.08333,
+    "longitude": 55.75,
+    "timezone": 0
+  },
+  {
+    "name": "Красноперекопск",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.955306,
+    "longitude": 33.795,
+    "timezone": 0
+  },
+  {
+    "name": "Краснослободск",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 48.7,
+    "longitude": 44.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Краснослободск",
+    "subject": "Мордовия",
+    "district": "Приволжский",
+    "latitude": 54.43333,
+    "longitude": 43.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Краснотурьинск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 59.76667,
+    "longitude": 60.2,
+    "timezone": 0
+  },
+  {
+    "name": "Красноуральск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.35,
+    "longitude": 60.05,
+    "timezone": 0
+  },
+  {
+    "name": "Красноуфимск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.61667,
+    "longitude": 57.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Красноярск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.012083,
+    "longitude": 92.871295,
+    "timezone": 0
+  },
+  {
+    "name": "Красный Кут",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 50.95,
+    "longitude": 46.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Красный Сулин",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.88333,
+    "longitude": 40.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Красный Холм",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 58.06329,
+    "longitude": 37.122983,
+    "timezone": 0
+  },
+  {
+    "name": "Кремёнки",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.88917,
+    "longitude": 37.12333,
+    "timezone": 0
+  },
+  {
+    "name": "Кропоткин",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.43333,
+    "longitude": 40.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Крымск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.93333,
+    "longitude": 38,
+    "timezone": 0
+  },
+  {
+    "name": "Кстово",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.15167,
+    "longitude": 44.19556,
+    "timezone": 0
+  },
+  {
+    "name": "Кубинка",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.57639,
+    "longitude": 36.69472,
+    "timezone": 0
+  },
+  {
+    "name": "Кувандык",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.48333,
+    "longitude": 57.35,
+    "timezone": 0
+  },
+  {
+    "name": "Кувшиново",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.03333,
+    "longitude": 34.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Кудрово",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.90694,
+    "longitude": 30.50556,
+    "timezone": 0
+  },
+  {
+    "name": "Кудымкар",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 59.01667,
+    "longitude": 54.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Кузнецк",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.11667,
+    "longitude": 46.6,
+    "timezone": 0
+  },
+  {
+    "name": "Куйбышев",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.45028,
+    "longitude": 78.3075,
+    "timezone": 0
+  },
+  {
+    "name": "Кукмор",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 56.1825,
+    "longitude": 50.90639,
+    "timezone": 0
+  },
+  {
+    "name": "Кулебаки",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.41667,
+    "longitude": 42.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Кумертау",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 52.76667,
+    "longitude": 55.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Кунгур",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 57.43333,
+    "longitude": 56.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Купино",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 54.36667,
+    "longitude": 77.3,
+    "timezone": 0
+  },
+  {
+    "name": "Курган",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 55.44083,
+    "longitude": 65.34111,
+    "timezone": 0
+  },
+  {
+    "name": "Курганинск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.88333,
+    "longitude": 40.6,
+    "timezone": 0
+  },
+  {
+    "name": "Курильск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 45.25,
+    "longitude": 147.883333,
+    "timezone": 0
+  },
+  {
+    "name": "Курлово",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.45,
+    "longitude": 40.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Куровское",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.58333,
+    "longitude": 38.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Курск",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 51.71667,
+    "longitude": 36.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Куртамыш",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 54.9,
+    "longitude": 64.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Курчалой",
+    "subject": "Чечня",
+    "district": "Северо-Кавказский",
+    "latitude": 43.20444,
+    "longitude": 46.087812,
+    "timezone": 0
+  },
+  {
+    "name": "Курчатов",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 51.66667,
+    "longitude": 35.65,
+    "timezone": 0
+  },
+  {
+    "name": "Куса",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.33333,
+    "longitude": 59.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Кушва",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.28333,
+    "longitude": 59.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Кызыл",
+    "subject": "Тыва",
+    "district": "Сибирский",
+    "latitude": 51.7,
+    "longitude": 94.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Кыштым",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.7,
+    "longitude": 60.55,
+    "timezone": 0
+  },
+  {
+    "name": "Кяхта",
+    "subject": "Бурятия",
+    "district": "Сибирский",
+    "latitude": 50.35,
+    "longitude": 106.45,
+    "timezone": 0
+  },
+  {
+    "name": "Лабинск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.63333,
+    "longitude": 40.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Лабытнанги",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 66.65806,
+    "longitude": 66.38389,
+    "timezone": 0
+  },
+  {
+    "name": "Лагань",
+    "subject": "Калмыкия",
+    "district": "Южный",
+    "latitude": 45.3925,
+    "longitude": 47.355,
+    "timezone": 0
+  },
+  {
+    "name": "Ладушкин",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.56667,
+    "longitude": 20.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Лаишево",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.4,
+    "longitude": 49.55,
+    "timezone": 0
+  },
+  {
+    "name": "Лакинск",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.01694,
+    "longitude": 39.94944,
+    "timezone": 0
+  },
+  {
+    "name": "Лангепас",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.25,
+    "longitude": 75.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Лахденпохья",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 61.51667,
+    "longitude": 30.2,
+    "timezone": 0
+  },
+  {
+    "name": "Лебедянь",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 53.0115528,
+    "longitude": 39.1281167,
+    "timezone": 0
+  },
+  {
+    "name": "Лениногорск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.5988694,
+    "longitude": 52.4422722,
+    "timezone": 0
+  },
+  {
+    "name": "Ленинск-Кузнецкий",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 54.65,
+    "longitude": 86.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Ленинск",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 48.7,
+    "longitude": 45.2,
+    "timezone": 0
+  },
+  {
+    "name": "Ленск",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 60.71667,
+    "longitude": 114.9,
+    "timezone": 0
+  },
+  {
+    "name": "Лермонтов",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.10528,
+    "longitude": 42.97167,
+    "timezone": 0
+  },
+  {
+    "name": "Лесной",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.63333,
+    "longitude": 59.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Лесозаводск",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 45.46667,
+    "longitude": 133.4,
+    "timezone": 0
+  },
+  {
+    "name": "Лесосибирск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 58.23333,
+    "longitude": 92.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Ливны",
+    "subject": "Орловская область",
+    "district": "Центральный",
+    "latitude": 52.425306,
+    "longitude": 37.608306,
+    "timezone": 0
+  },
+  {
+    "name": "Ликино-Дулёво",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.71528,
+    "longitude": 38.95778,
+    "timezone": 0
+  },
+  {
+    "name": "Липецк",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 52.61667,
+    "longitude": 39.6,
+    "timezone": 0
+  },
+  {
+    "name": "Липки",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.95,
+    "longitude": 37.7,
+    "timezone": 0
+  },
+  {
+    "name": "Лиски",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 50.98222,
+    "longitude": 39.49944,
+    "timezone": 0
+  },
+  {
+    "name": "Лихославль",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.11667,
+    "longitude": 35.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Лобня",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.01194,
+    "longitude": 37.47444,
+    "timezone": 0
+  },
+  {
+    "name": "Лодейное Поле",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.73333,
+    "longitude": 33.55,
+    "timezone": 0
+  },
+  {
+    "name": "Лосино-Петровский",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.86667,
+    "longitude": 38.2,
+    "timezone": 0
+  },
+  {
+    "name": "Луга",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 58.73333,
+    "longitude": 29.85,
+    "timezone": 0
+  },
+  {
+    "name": "Луза",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 60.61667,
+    "longitude": 47.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Лукоянов",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.03833,
+    "longitude": 44.49778,
+    "timezone": 0
+  },
+  {
+    "name": "Луховицы",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.96667,
+    "longitude": 39.025,
+    "timezone": 0
+  },
+  {
+    "name": "Лысково",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.01278,
+    "longitude": 45.02528,
+    "timezone": 0
+  },
+  {
+    "name": "Лысьва",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.1003806,
+    "longitude": 57.8043278,
+    "timezone": 0
+  },
+  {
+    "name": "Лыткарино",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.58361,
+    "longitude": 37.90556,
+    "timezone": 0
+  },
+  {
+    "name": "Льгов",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 51.66667,
+    "longitude": 35.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Любань",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.35,
+    "longitude": 31.25,
+    "timezone": 0
+  },
+  {
+    "name": "Люберцы",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.68139,
+    "longitude": 37.89389,
+    "timezone": 0
+  },
+  {
+    "name": "Любим",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 58.35,
+    "longitude": 40.7,
+    "timezone": 0
+  },
+  {
+    "name": "Людиново",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 53.86667,
+    "longitude": 34.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Лянтор",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.61667,
+    "longitude": 72.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Магадан",
+    "subject": "Магаданская область",
+    "district": "Дальневосточный",
+    "latitude": 59.56667,
+    "longitude": 150.8,
+    "timezone": 0
+  },
+  {
+    "name": "Магас",
+    "subject": "Ингушетия",
+    "district": "Северо-Кавказский",
+    "latitude": 43.16667,
+    "longitude": 44.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Магнитогорск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 53.38333,
+    "longitude": 59.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Майкоп",
+    "subject": "Адыгея",
+    "district": "Южный",
+    "latitude": 44.611,
+    "longitude": 40.111,
+    "timezone": 0
+  },
+  {
+    "name": "Майский",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.630508,
+    "longitude": 44.067733,
+    "timezone": 0
+  },
+  {
+    "name": "Макаров",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 48.61667,
+    "longitude": 142.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Макарьев",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 57.88333,
+    "longitude": 43.8,
+    "timezone": 0
+  },
+  {
+    "name": "Макушино",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 55.2,
+    "longitude": 67.25,
+    "timezone": 0
+  },
+  {
+    "name": "Малая Вишера",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 58.85,
+    "longitude": 32.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Малгобек",
+    "subject": "Ингушетия",
+    "district": "Северо-Кавказский",
+    "latitude": 43.508882,
+    "longitude": 44.585563,
+    "timezone": 0
+  },
+  {
+    "name": "Малмыж",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 56.52278,
+    "longitude": 50.68083,
+    "timezone": 0
+  },
+  {
+    "name": "Малоархангельск",
+    "subject": "Орловская область",
+    "district": "Центральный",
+    "latitude": 52.4,
+    "longitude": 36.5,
+    "timezone": 0
+  },
+  {
+    "name": "Малоярославец",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 55,
+    "longitude": 36.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Мамадыш",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.7,
+    "longitude": 51.4,
+    "timezone": 0
+  },
+  {
+    "name": "Мамоново",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.46667,
+    "longitude": 19.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Мантурово",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 58.33333,
+    "longitude": 44.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Мариинск",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 56.21667,
+    "longitude": 87.75,
+    "timezone": 0
+  },
+  {
+    "name": "Мариинский Посад",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 56.11667,
+    "longitude": 47.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Маркс",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.7,
+    "longitude": 46.75,
+    "timezone": 0
+  },
+  {
+    "name": "Махачкала",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 42.98333,
+    "longitude": 47.5,
+    "timezone": 0
+  },
+  {
+    "name": "Мглин",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.06111,
+    "longitude": 32.84833,
+    "timezone": 0
+  },
+  {
+    "name": "Мегион",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.03306,
+    "longitude": 76.10972,
+    "timezone": 0
+  },
+  {
+    "name": "Медвежьегорск",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 62.91667,
+    "longitude": 34.45,
+    "timezone": 0
+  },
+  {
+    "name": "Медногорск",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.422085,
+    "longitude": 57.595296,
+    "timezone": 0
+  },
+  {
+    "name": "Медынь",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.96667,
+    "longitude": 35.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Межгорье",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 54.24167,
+    "longitude": 57.96778,
+    "timezone": 0
+  },
+  {
+    "name": "Междуреченск",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 53.68333,
+    "longitude": 88.05,
+    "timezone": 0
+  },
+  {
+    "name": "Мезень",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 65.85,
+    "longitude": 44.23333,
+    "timezone": 0
+  },
+  {
+    "name": "Меленки",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.33333,
+    "longitude": 41.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Мелеуз",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 52.95,
+    "longitude": 55.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Менделеевск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.9,
+    "longitude": 52.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Мензелинск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.71667,
+    "longitude": 53.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Мещовск",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.31667,
+    "longitude": 35.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Миасс",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.05,
+    "longitude": 60.1,
+    "timezone": 0
+  },
+  {
+    "name": "Микунь",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 62.35,
+    "longitude": 50.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Миллерово",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 48.91667,
+    "longitude": 40.4,
+    "timezone": 0
+  },
+  {
+    "name": "Минеральные Воды",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.20083,
+    "longitude": 43.1125,
+    "timezone": 0
+  },
+  {
+    "name": "Минусинск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 53.7,
+    "longitude": 91.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Миньяр",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.06667,
+    "longitude": 57.55,
+    "timezone": 0
+  },
+  {
+    "name": "Мирный",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 62.76028,
+    "longitude": 40.33528,
+    "timezone": 0
+  },
+  {
+    "name": "Мирный",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 62.53333,
+    "longitude": 113.95,
+    "timezone": 0
+  },
+  {
+    "name": "Михайлов",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.23333,
+    "longitude": 39.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Михайловка",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.06667,
+    "longitude": 43.23333,
+    "timezone": 0
+  },
+  {
+    "name": "Михайловск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.43333,
+    "longitude": 59.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Михайловск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 45.130012,
+    "longitude": 42.027487,
+    "timezone": 0
+  },
+  {
+    "name": "Мичуринск",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 52.89222,
+    "longitude": 40.49278,
+    "timezone": 0
+  },
+  {
+    "name": "Могоча",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 53.73333,
+    "longitude": 119.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Можайск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.5,
+    "longitude": 36.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Можга",
+    "subject": "Удмуртия",
+    "district": "Приволжский",
+    "latitude": 56.45,
+    "longitude": 52.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Моздок",
+    "subject": "Северная Осетия \u2014 Алания",
+    "district": "Северо-Кавказский",
+    "latitude": 43.74722,
+    "longitude": 44.65694,
+    "timezone": 0
+  },
+  {
+    "name": "Мончегорск",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 67.93944,
+    "longitude": 32.91556,
+    "timezone": 0
+  },
+  {
+    "name": "Морозовск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 48.35,
+    "longitude": 41.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Моршанск",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 53.45,
+    "longitude": 41.8,
+    "timezone": 0
+  },
+  {
+    "name": "Мосальск",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.48333,
+    "longitude": 34.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Москва",
+    "subject": "Москва",
+    "district": "Центральный",
+    "latitude": 55.75583,
+    "longitude": 37.61778,
+    "timezone": 0
+  },
+  {
+    "name": "Муравленко",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 63.79444,
+    "longitude": 74.49722,
+    "timezone": 0
+  },
+  {
+    "name": "Мураши",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 59.38333,
+    "longitude": 48.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Мурино",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.04583,
+    "longitude": 30.44861,
+    "timezone": 0
+  },
+  {
+    "name": "Мурманск",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 68.96667,
+    "longitude": 33.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Муром",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.5725,
+    "longitude": 42.05139,
+    "timezone": 0
+  },
+  {
+    "name": "Мценск",
+    "subject": "Орловская область",
+    "district": "Центральный",
+    "latitude": 53.27833,
+    "longitude": 36.575,
+    "timezone": 0
+  },
+  {
+    "name": "Мыски",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 53.7,
+    "longitude": 87.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Мытищи",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.91667,
+    "longitude": 37.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Мышкин",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 57.78333,
+    "longitude": 38.45,
+    "timezone": 0
+  },
+  {
+    "name": "Набережные Челны",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.7,
+    "longitude": 52.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Навашино",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.53333,
+    "longitude": 42.2,
+    "timezone": 0
+  },
+  {
+    "name": "Наволоки",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.46667,
+    "longitude": 41.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Надым",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 65.53333,
+    "longitude": 72.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Назарово",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.00639,
+    "longitude": 90.39139,
+    "timezone": 0
+  },
+  {
+    "name": "Назрань",
+    "subject": "Ингушетия",
+    "district": "Северо-Кавказский",
+    "latitude": 43.21667,
+    "longitude": 44.76667,
+    "timezone": 3
+  },
+  {
+    "name": "Называевск",
+    "subject": "Омская область",
+    "district": "Сибирский",
+    "latitude": 55.56667,
+    "longitude": 71.35,
+    "timezone": 0
+  },
+  {
+    "name": "Нальчик",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.485259,
+    "longitude": 43.607072,
+    "timezone": 0
+  },
+  {
+    "name": "Нариманов",
+    "subject": "Астраханская область",
+    "district": "Южный",
+    "latitude": 46.68333,
+    "longitude": 47.85,
+    "timezone": 0
+  },
+  {
+    "name": "Наро-Фоминск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.38333,
+    "longitude": 36.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Нарткала",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.556734,
+    "longitude": 43.862222,
+    "timezone": 0
+  },
+  {
+    "name": "Нарьян-Мар",
+    "subject": "Ненецкий АО",
+    "district": "Северо-Западный",
+    "latitude": 67.63778,
+    "longitude": 53.00667,
+    "timezone": 0
+  },
+  {
+    "name": "Находка",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 42.81667,
+    "longitude": 132.88333,
+    "timezone": 0
+  },
+  {
+    "name": "Невель",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 56.01667,
+    "longitude": 29.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Невельск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 46.65,
+    "longitude": 141.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Невинномысск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.63333,
+    "longitude": 41.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Невьянск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.48333,
+    "longitude": 60.2,
+    "timezone": 0
+  },
+  {
+    "name": "Нелидово",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.21667,
+    "longitude": 32.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Неман",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 55.03333,
+    "longitude": 22.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Нерехта",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 57.45,
+    "longitude": 40.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Нерчинск",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 51.98333,
+    "longitude": 116.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Нерюнгри",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 56.65833,
+    "longitude": 124.725,
+    "timezone": 0
+  },
+  {
+    "name": "Нестеров",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.63333,
+    "longitude": 22.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Нефтегорск",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 52.8,
+    "longitude": 51.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Нефтекамск",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 56.08889,
+    "longitude": 54.24639,
+    "timezone": 0
+  },
+  {
+    "name": "Нефтекумск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.75056,
+    "longitude": 44.97972,
+    "timezone": 0
+  },
+  {
+    "name": "Нефтеюганск",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.1,
+    "longitude": 72.6,
+    "timezone": 0
+  },
+  {
+    "name": "Нея",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 58.29444,
+    "longitude": 43.87806,
+    "timezone": 0
+  },
+  {
+    "name": "Нижневартовск",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 60.93389,
+    "longitude": 76.58111,
+    "timezone": 0
+  },
+  {
+    "name": "Нижнекамск",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.63333,
+    "longitude": 51.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Нижнеудинск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 54.9,
+    "longitude": 99.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Нижние Серги",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.66667,
+    "longitude": 59.3,
+    "timezone": 0
+  },
+  {
+    "name": "Нижний Ломов",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.53333,
+    "longitude": 43.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Нижний Новгород",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.32694,
+    "longitude": 44.0075,
+    "timezone": 0
+  },
+  {
+    "name": "Нижний Тагил",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.91667,
+    "longitude": 59.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Нижняя Салда",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.08333,
+    "longitude": 60.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Нижняя Тура",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.62083,
+    "longitude": 59.84778,
+    "timezone": 0
+  },
+  {
+    "name": "Николаевск-на-Амуре",
+    "subject": "Хабаровский край",
+    "district": "Дальневосточный",
+    "latitude": 53.15,
+    "longitude": 140.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Николаевск",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.02722,
+    "longitude": 45.46306,
+    "timezone": 0
+  },
+  {
+    "name": "Никольск",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.53333,
+    "longitude": 45.45,
+    "timezone": 0
+  },
+  {
+    "name": "Никольск",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.71667,
+    "longitude": 46.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Никольское",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.7,
+    "longitude": 30.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Новая Ладога",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.1,
+    "longitude": 32.3,
+    "timezone": 0
+  },
+  {
+    "name": "Новая Ляля",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 59.05,
+    "longitude": 60.6,
+    "timezone": 0
+  },
+  {
+    "name": "Новоалександровск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 45.49333,
+    "longitude": 41.21694,
+    "timezone": 0
+  },
+  {
+    "name": "Новоалтайск",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 53.4,
+    "longitude": 83.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Новоаннинский",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.51667,
+    "longitude": 42.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Нововоронеж",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.31667,
+    "longitude": 39.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Новодвинск",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 64.41667,
+    "longitude": 40.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Новозыбков",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.53333,
+    "longitude": 31.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Новокубанск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.1,
+    "longitude": 41.05,
+    "timezone": 0
+  },
+  {
+    "name": "Новокузнецк",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 53.73333,
+    "longitude": 87.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Новокуйбышевск",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.1,
+    "longitude": 49.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Новомичуринск",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.03333,
+    "longitude": 39.75,
+    "timezone": 0
+  },
+  {
+    "name": "Новомосковск",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.03333,
+    "longitude": 38.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Новопавловск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 43.96361,
+    "longitude": 43.63944,
+    "timezone": 0
+  },
+  {
+    "name": "Новоржев",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 57.03333,
+    "longitude": 29.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Новороссийск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.71667,
+    "longitude": 37.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Новосибирск",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.01667,
+    "longitude": 82.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Новосиль",
+    "subject": "Орловская область",
+    "district": "Центральный",
+    "latitude": 52.96667,
+    "longitude": 37.05,
+    "timezone": 0
+  },
+  {
+    "name": "Новосокольники",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 56.33333,
+    "longitude": 30.15,
+    "timezone": 0
+  },
+  {
+    "name": "Новотроицк",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.20667,
+    "longitude": 58.32806,
+    "timezone": 0
+  },
+  {
+    "name": "Новоузенск",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 50.45,
+    "longitude": 48.15,
+    "timezone": 0
+  },
+  {
+    "name": "Новоульяновск",
+    "subject": "Ульяновская область",
+    "district": "Приволжский",
+    "latitude": 54.15,
+    "longitude": 48.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Новоуральск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.25,
+    "longitude": 60.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Новохопёрск",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.1,
+    "longitude": 41.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Новочебоксарск",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 56.12194,
+    "longitude": 47.4925,
+    "timezone": 0
+  },
+  {
+    "name": "Новочеркасск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.43583,
+    "longitude": 40.09861,
+    "timezone": 0
+  },
+  {
+    "name": "Новошахтинск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.76667,
+    "longitude": 39.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Новый Оскол",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.76667,
+    "longitude": 37.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Новый Уренгой",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 66.08472,
+    "longitude": 76.67889,
+    "timezone": 0
+  },
+  {
+    "name": "Ногинск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.85,
+    "longitude": 38.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Нолинск",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 57.55722,
+    "longitude": 49.93417,
+    "timezone": 0
+  },
+  {
+    "name": "Норильск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 69.33333,
+    "longitude": 88.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Ноябрьск",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 63.20167,
+    "longitude": 75.45167,
+    "timezone": 0
+  },
+  {
+    "name": "Нурлат",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.43333,
+    "longitude": 50.8,
+    "timezone": 0
+  },
+  {
+    "name": "Нытва",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 57.93333,
+    "longitude": 55.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Нюрба",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 63.28333,
+    "longitude": 118.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Нягань",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 62.13333,
+    "longitude": 65.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Нязепетровск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 56.05,
+    "longitude": 59.6,
+    "timezone": 0
+  },
+  {
+    "name": "Няндома",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 61.66667,
+    "longitude": 40.2,
+    "timezone": 0
+  },
+  {
+    "name": "Облучье",
+    "subject": "Еврейская АО",
+    "district": "Дальневосточный",
+    "latitude": 49,
+    "longitude": 131.05,
+    "timezone": 0
+  },
+  {
+    "name": "Обнинск",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 55.1,
+    "longitude": 36.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Обоянь",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 51.21111,
+    "longitude": 36.27639,
+    "timezone": 0
+  },
+  {
+    "name": "Обь",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 54.99167,
+    "longitude": 82.7125,
+    "timezone": 0
+  },
+  {
+    "name": "Одинцово",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.67333,
+    "longitude": 37.27333,
+    "timezone": 0
+  },
+  {
+    "name": "Озёрск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.41667,
+    "longitude": 22.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Озёрск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.75,
+    "longitude": 60.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Озёры",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.857875,
+    "longitude": 38.5438194,
+    "timezone": 0
+  },
+  {
+    "name": "Октябрьск",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.16667,
+    "longitude": 48.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Октябрьский",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 54.48333,
+    "longitude": 53.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Окуловка",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 58.38333,
+    "longitude": 33.3,
+    "timezone": 0
+  },
+  {
+    "name": "Оленегорск",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 68.15,
+    "longitude": 33.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Олонец",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 60.98333,
+    "longitude": 32.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Олёкминск",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 60.38333,
+    "longitude": 120.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Омск",
+    "subject": "Омская область",
+    "district": "Сибирский",
+    "latitude": 54.96667,
+    "longitude": 73.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Омутнинск",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.66667,
+    "longitude": 52.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Онега",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 63.91667,
+    "longitude": 38.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Опочка",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 56.71667,
+    "longitude": 28.65,
+    "timezone": 0
+  },
+  {
+    "name": "Оренбург",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.76667,
+    "longitude": 55.1,
+    "timezone": 0
+  },
+  {
+    "name": "Орехово-Зуево",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.8,
+    "longitude": 38.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Орлов",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.53889,
+    "longitude": 48.89861,
+    "timezone": 0
+  },
+  {
+    "name": "Орск",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.2,
+    "longitude": 58.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Орёл",
+    "subject": "Орловская область",
+    "district": "Центральный",
+    "latitude": 52.96667,
+    "longitude": 36.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Оса",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 57.28333,
+    "longitude": 55.45,
+    "timezone": 0
+  },
+  {
+    "name": "Осинники",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 53.61667,
+    "longitude": 87.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Осташков",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.15,
+    "longitude": 33.1,
+    "timezone": 0
+  },
+  {
+    "name": "Остров",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 57.33333,
+    "longitude": 28.35,
+    "timezone": 0
+  },
+  {
+    "name": "Островной",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 68.05306,
+    "longitude": 39.51306,
+    "timezone": 0
+  },
+  {
+    "name": "Острогожск",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 50.86667,
+    "longitude": 39.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Отрадное",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.78333,
+    "longitude": 30.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Отрадный",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.36667,
+    "longitude": 51.35,
+    "timezone": 0
+  },
+  {
+    "name": "Оха",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 53.58333,
+    "longitude": 142.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Оханск",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 57.71667,
+    "longitude": 55.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Очёр",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 57.88333,
+    "longitude": 54.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Павлово",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.96194,
+    "longitude": 43.09,
+    "timezone": 0
+  },
+  {
+    "name": "Павловск",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 50.45,
+    "longitude": 40.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Павловский Посад",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.78333,
+    "longitude": 38.65,
+    "timezone": 0
+  },
+  {
+    "name": "Палласовка",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.05,
+    "longitude": 46.88333,
+    "timezone": 0
+  },
+  {
+    "name": "Партизанск",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 43.13333,
+    "longitude": 133.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Певек",
+    "subject": "Чукотский АО",
+    "district": "Дальневосточный",
+    "latitude": 69.7,
+    "longitude": 170.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Пенза",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.2,
+    "longitude": 45,
+    "timezone": 0
+  },
+  {
+    "name": "Первомайск",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 54.86667,
+    "longitude": 43.8,
+    "timezone": 0
+  },
+  {
+    "name": "Первоуральск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.91667,
+    "longitude": 59.95,
+    "timezone": 0
+  },
+  {
+    "name": "Перевоз",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.6,
+    "longitude": 44.55,
+    "timezone": 0
+  },
+  {
+    "name": "Пересвет",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.41667,
+    "longitude": 38.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Переславль-Залесский",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 56.7381333,
+    "longitude": 38.8561528,
+    "timezone": 0
+  },
+  {
+    "name": "Пермь",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.01389,
+    "longitude": 56.24889,
+    "timezone": 0
+  },
+  {
+    "name": "Пестово",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 58.6,
+    "longitude": 35.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Петров Вал",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.13333,
+    "longitude": 45.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Петровск-Забайкальский",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 51.28333,
+    "longitude": 108.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Петровск",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 52.31667,
+    "longitude": 45.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Петрозаводск",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 61.79611,
+    "longitude": 34.34917,
+    "timezone": 0
+  },
+  {
+    "name": "Петропавловск-Камчатский",
+    "subject": "Камчатский край",
+    "district": "Дальневосточный",
+    "latitude": 53.01667,
+    "longitude": 158.65,
+    "timezone": 0
+  },
+  {
+    "name": "Петухово",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 55.06667,
+    "longitude": 67.88333,
+    "timezone": 0
+  },
+  {
+    "name": "Петушки",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.93333,
+    "longitude": 39.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Печора",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 65.11667,
+    "longitude": 57.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Печоры",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 57.81667,
+    "longitude": 27.6,
+    "timezone": 0
+  },
+  {
+    "name": "Пикалёво",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.51324,
+    "longitude": 34.17589,
+    "timezone": 0
+  },
+  {
+    "name": "Пионерский",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.95,
+    "longitude": 20.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Питкяранта",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 61.56667,
+    "longitude": 31.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Плавск",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.7,
+    "longitude": 37.3,
+    "timezone": 0
+  },
+  {
+    "name": "Пласт",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.36667,
+    "longitude": 60.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Плёс",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.45,
+    "longitude": 41.5,
+    "timezone": 0
+  },
+  {
+    "name": "Поворино",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.2,
+    "longitude": 42.25,
+    "timezone": 0
+  },
+  {
+    "name": "Подольск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.42972,
+    "longitude": 37.54444,
+    "timezone": 0
+  },
+  {
+    "name": "Подпорожье",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.91667,
+    "longitude": 34.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Покачи",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.75,
+    "longitude": 75.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Покров",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.91778,
+    "longitude": 39.175,
+    "timezone": 0
+  },
+  {
+    "name": "Покровск",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 61.48333,
+    "longitude": 129.15,
+    "timezone": 0
+  },
+  {
+    "name": "Полевской",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.45,
+    "longitude": 60.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Полесск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.86667,
+    "longitude": 21.1,
+    "timezone": 0
+  },
+  {
+    "name": "Полысаево",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 54.6,
+    "longitude": 86.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Полярные Зори",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 67.36583,
+    "longitude": 32.49806,
+    "timezone": 0
+  },
+  {
+    "name": "Полярный",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 69.19833,
+    "longitude": 33.45611,
+    "timezone": 0
+  },
+  {
+    "name": "Поронайск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 49.21667,
+    "longitude": 143.1,
+    "timezone": 0
+  },
+  {
+    "name": "Порхов",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 57.76667,
+    "longitude": 29.55,
+    "timezone": 0
+  },
+  {
+    "name": "Похвистнево",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.65,
+    "longitude": 52.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Почеп",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.93333,
+    "longitude": 33.45,
+    "timezone": 0
+  },
+  {
+    "name": "Починок",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 54.4,
+    "longitude": 32.45,
+    "timezone": 0
+  },
+  {
+    "name": "Пошехонье",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 58.5,
+    "longitude": 39.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Правдинск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.45,
+    "longitude": 21.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Приволжск",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.38333,
+    "longitude": 41.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Приморск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.73333,
+    "longitude": 20,
+    "timezone": 0
+  },
+  {
+    "name": "Приморск",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.36667,
+    "longitude": 28.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Приморско-Ахтарск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 46.05,
+    "longitude": 38.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Приозерск",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 61.03333,
+    "longitude": 30.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Прокопьевск",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 53.88333,
+    "longitude": 86.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Пролетарск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 46.70306,
+    "longitude": 41.71917,
+    "timezone": 0
+  },
+  {
+    "name": "Протвино",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.87944,
+    "longitude": 37.21389,
+    "timezone": 0
+  },
+  {
+    "name": "Прохладный",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.750055,
+    "longitude": 44.033333,
+    "timezone": 0
+  },
+  {
+    "name": "Псков",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 57.81667,
+    "longitude": 28.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Пугачёв",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 52.01667,
+    "longitude": 48.8,
+    "timezone": 0
+  },
+  {
+    "name": "Пудож",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 61.8,
+    "longitude": 36.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Пустошка",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 56.33333,
+    "longitude": 29.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Пучеж",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 56.98333,
+    "longitude": 43.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Пушкино",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.01667,
+    "longitude": 37.85,
+    "timezone": 0
+  },
+  {
+    "name": "Пущино",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.83333,
+    "longitude": 37.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Пыталово",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 57.06667,
+    "longitude": 27.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Пыть-Ях",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 60.75,
+    "longitude": 72.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Пятигорск",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 44.0499664,
+    "longitude": 43.0600548,
+    "timezone": 0
+  },
+  {
+    "name": "Радужный",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.99778,
+    "longitude": 40.32972,
+    "timezone": 0
+  },
+  {
+    "name": "Радужный",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 62.13333,
+    "longitude": 77.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Райчихинск",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 49.8,
+    "longitude": 129.4,
+    "timezone": 0
+  },
+  {
+    "name": "Раменское",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.56667,
+    "longitude": 38.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Рассказово",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 52.66667,
+    "longitude": 41.88333,
+    "timezone": 0
+  },
+  {
+    "name": "Ревда",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.8,
+    "longitude": 59.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Реж",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.36667,
+    "longitude": 61.4,
+    "timezone": 0
+  },
+  {
+    "name": "Реутов",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.76667,
+    "longitude": 37.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Ржев",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.2655833,
+    "longitude": 34.3275694,
+    "timezone": 0
+  },
+  {
+    "name": "Родники",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.1,
+    "longitude": 41.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Рославль",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 53.94917,
+    "longitude": 32.85694,
+    "timezone": 0
+  },
+  {
+    "name": "Россошь",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 50.2,
+    "longitude": 39.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Ростов-на-Дону",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.24056,
+    "longitude": 39.71056,
+    "timezone": 0
+  },
+  {
+    "name": "Ростов",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 57.18333,
+    "longitude": 39.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Рошаль",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.66361,
+    "longitude": 39.865,
+    "timezone": 0
+  },
+  {
+    "name": "Ртищево",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 52.25,
+    "longitude": 43.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Рубцовск",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 51.52722,
+    "longitude": 81.218806,
+    "timezone": 0
+  },
+  {
+    "name": "Рудня",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 54.95,
+    "longitude": 31.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Руза",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.6997667,
+    "longitude": 36.194417,
+    "timezone": 0
+  },
+  {
+    "name": "Рузаевка",
+    "subject": "Мордовия",
+    "district": "Приволжский",
+    "latitude": 54.06667,
+    "longitude": 44.95,
+    "timezone": 0
+  },
+  {
+    "name": "Рыбинск",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 58.05,
+    "longitude": 38.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Рыбное",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.73333,
+    "longitude": 39.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Рыльск",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 51.56667,
+    "longitude": 34.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Ряжск",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 53.71667,
+    "longitude": 40.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Рязань",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.61667,
+    "longitude": 39.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Саки",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.13361,
+    "longitude": 33.57722,
+    "timezone": 0
+  },
+  {
+    "name": "Салават",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 53.36667,
+    "longitude": 55.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Салаир",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 54.23333,
+    "longitude": 85.8,
+    "timezone": 0
+  },
+  {
+    "name": "Салехард",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 66.53333,
+    "longitude": 66.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Сальск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 46.48333,
+    "longitude": 41.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Самара",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.18333,
+    "longitude": 50.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Санкт-Петербург",
+    "subject": "Санкт-Петербург",
+    "district": "Северо-Западный",
+    "latitude": 59.95,
+    "longitude": 30.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Саранск",
+    "subject": "Мордовия",
+    "district": "Приволжский",
+    "latitude": 54.18333,
+    "longitude": 45.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Сарапул",
+    "subject": "Удмуртия",
+    "district": "Приволжский",
+    "latitude": 56.46667,
+    "longitude": 53.8,
+    "timezone": 0
+  },
+  {
+    "name": "Саратов",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.53333,
+    "longitude": 46,
+    "timezone": 0
+  },
+  {
+    "name": "Саров",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 54.93333,
+    "longitude": 43.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Сасово",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.35,
+    "longitude": 41.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Сатка",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.05,
+    "longitude": 59.05,
+    "timezone": 0
+  },
+  {
+    "name": "Сафоново",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.1,
+    "longitude": 33.25,
+    "timezone": 0
+  },
+  {
+    "name": "Саяногорск",
+    "subject": "Хакасия",
+    "district": "Сибирский",
+    "latitude": 53.1,
+    "longitude": 91.4,
+    "timezone": 0
+  },
+  {
+    "name": "Саянск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 54.11667,
+    "longitude": 102.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Светлогорск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.93333,
+    "longitude": 20.15,
+    "timezone": 0
+  },
+  {
+    "name": "Светлоград",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 45.33083,
+    "longitude": 42.85111,
+    "timezone": 0
+  },
+  {
+    "name": "Светлый",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.68333,
+    "longitude": 20.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Светогорск",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 61.10833,
+    "longitude": 28.85833,
+    "timezone": 0
+  },
+  {
+    "name": "Свирск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 53.08333,
+    "longitude": 103.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Свободный",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 51.38333,
+    "longitude": 128.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Себеж",
+    "subject": "Псковская область",
+    "district": "Северо-Западный",
+    "latitude": 56.28333,
+    "longitude": 28.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Севастополь",
+    "subject": "Севастополь",
+    "district": "Южный",
+    "latitude": 44.6,
+    "longitude": 33.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Северо-Курильск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 50.68333,
+    "longitude": 156.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Северобайкальск",
+    "subject": "Бурятия",
+    "district": "Сибирский",
+    "latitude": 55.63333,
+    "longitude": 109.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Северодвинск",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 64.56667,
+    "longitude": 39.85,
+    "timezone": 0
+  },
+  {
+    "name": "Североморск",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 69.06917,
+    "longitude": 33.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Североуральск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 60.15,
+    "longitude": 59.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Северск",
+    "subject": "Томская область",
+    "district": "Сибирский",
+    "latitude": 56.6,
+    "longitude": 84.85,
+    "timezone": 0
+  },
+  {
+    "name": "Севск",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.15,
+    "longitude": 34.49389,
+    "timezone": 0
+  },
+  {
+    "name": "Сегежа",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 63.73333,
+    "longitude": 34.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Сельцо",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.36944,
+    "longitude": 34.1,
+    "timezone": 0
+  },
+  {
+    "name": "Семикаракорск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.51667,
+    "longitude": 40.8,
+    "timezone": 0
+  },
+  {
+    "name": "Семилуки",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.68333,
+    "longitude": 39.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Семёнов",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.78944,
+    "longitude": 44.49056,
+    "timezone": 0
+  },
+  {
+    "name": "Сенгилей",
+    "subject": "Ульяновская область",
+    "district": "Приволжский",
+    "latitude": 53.96667,
+    "longitude": 48.8,
+    "timezone": 0
+  },
+  {
+    "name": "Серафимович",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 49.58333,
+    "longitude": 42.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Сергач",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 55.53333,
+    "longitude": 45.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Сергиев Посад",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.3,
+    "longitude": 38.13333,
+    "timezone": 0
+  },
+  {
+    "name": "Сердобск",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 52.46667,
+    "longitude": 44.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Серов",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 59.58333,
+    "longitude": 60.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Серпухов",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.91667,
+    "longitude": 37.4,
+    "timezone": 0
+  },
+  {
+    "name": "Сертолово",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.15,
+    "longitude": 30.2,
+    "timezone": 0
+  },
+  {
+    "name": "Сибай",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 52.7,
+    "longitude": 58.65,
+    "timezone": 0
+  },
+  {
+    "name": "Сим",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.98333,
+    "longitude": 57.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Симферополь",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 44.94806,
+    "longitude": 34.10417,
+    "timezone": 0
+  },
+  {
+    "name": "Сковородино",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 53.98333,
+    "longitude": 123.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Скопин",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 53.81667,
+    "longitude": 39.55,
+    "timezone": 0
+  },
+  {
+    "name": "Славгород",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 53,
+    "longitude": 78.65,
+    "timezone": 0
+  },
+  {
+    "name": "Славск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 55.05,
+    "longitude": 21.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Славянск-на-Кубани",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.25861,
+    "longitude": 38.12472,
+    "timezone": 0
+  },
+  {
+    "name": "Сланцы",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.11667,
+    "longitude": 28.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Слободской",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 58.724167,
+    "longitude": 50.161167,
+    "timezone": 0
+  },
+  {
+    "name": "Слюдянка",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 51.66667,
+    "longitude": 103.7,
+    "timezone": 0
+  },
+  {
+    "name": "Смоленск",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 54.78278,
+    "longitude": 32.04528,
+    "timezone": 0
+  },
+  {
+    "name": "Снежинск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 56.08333,
+    "longitude": 60.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Снежногорск",
+    "subject": "Мурманская область",
+    "district": "Северо-Западный",
+    "latitude": 69.19417,
+    "longitude": 33.23306,
+    "timezone": 0
+  },
+  {
+    "name": "Собинка",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.99,
+    "longitude": 40.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Советск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 55.08333,
+    "longitude": 21.88333,
+    "timezone": 0
+  },
+  {
+    "name": "Советск",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 57.601306,
+    "longitude": 48.938611,
+    "timezone": 0
+  },
+  {
+    "name": "Советск",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.93333,
+    "longitude": 37.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Советская Гавань",
+    "subject": "Хабаровский край",
+    "district": "Дальневосточный",
+    "latitude": 48.9575,
+    "longitude": 140.2811111,
+    "timezone": 0
+  },
+  {
+    "name": "Советский",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.36667,
+    "longitude": 63.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Сокол",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.46667,
+    "longitude": 40.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Солигалич",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 59.08333,
+    "longitude": 42.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Соликамск",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 59.63333,
+    "longitude": 56.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Солнечногорск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.18444,
+    "longitude": 36.995,
+    "timezone": 0
+  },
+  {
+    "name": "Соль-Илецк",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.16667,
+    "longitude": 54.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Сольвычегодск",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 61.33333,
+    "longitude": 46.91667,
+    "timezone": 0
+  },
+  {
+    "name": "Сольцы",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 58.11667,
+    "longitude": 30.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Сорочинск",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 52.43333,
+    "longitude": 53.15,
+    "timezone": 0
+  },
+  {
+    "name": "Сорск",
+    "subject": "Хакасия",
+    "district": "Сибирский",
+    "latitude": 54,
+    "longitude": 90.25,
+    "timezone": 0
+  },
+  {
+    "name": "Сортавала",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 61.7,
+    "longitude": 30.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Сосенский",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.05,
+    "longitude": 35.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Сосновка",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 56.2543,
+    "longitude": 51.2812,
+    "timezone": 0
+  },
+  {
+    "name": "Сосновоборск",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 56.13333,
+    "longitude": 93.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Сосновый Бор",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.9,
+    "longitude": 29.08611,
+    "timezone": 0
+  },
+  {
+    "name": "Сосногорск",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 63.58333,
+    "longitude": 53.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Сочи",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 43.58528,
+    "longitude": 39.72028,
+    "timezone": 0
+  },
+  {
+    "name": "Спас-Деменск",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.41667,
+    "longitude": 34.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Спас-Клепики",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 55.13333,
+    "longitude": 40.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Спасск-Дальний",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 44.6,
+    "longitude": 132.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Спасск-Рязанский",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.4,
+    "longitude": 40.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Спасск",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.93333,
+    "longitude": 43.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Среднеколымск",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 67.458,
+    "longitude": 153.706,
+    "timezone": 0
+  },
+  {
+    "name": "Среднеуральск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.98333,
+    "longitude": 60.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Сретенск",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 52.25,
+    "longitude": 117.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Ставрополь",
+    "subject": "Ставропольский край",
+    "district": "Северо-Кавказский",
+    "latitude": 45.03333,
+    "longitude": 41.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Старая Купавна",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.8,
+    "longitude": 38.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Старая Русса",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 57.98333,
+    "longitude": 31.35,
+    "timezone": 0
+  },
+  {
+    "name": "Старица",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.51667,
+    "longitude": 34.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Стародуб",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.58333,
+    "longitude": 32.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Старый Крым",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.02917,
+    "longitude": 35.08861,
+    "timezone": 0
+  },
+  {
+    "name": "Старый Оскол",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 51.29806,
+    "longitude": 37.835,
+    "timezone": 0
+  },
+  {
+    "name": "Стерлитамак",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 53.63333,
+    "longitude": 55.95,
+    "timezone": 0
+  },
+  {
+    "name": "Стрежевой",
+    "subject": "Томская область",
+    "district": "Сибирский",
+    "latitude": 60.73333,
+    "longitude": 77.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Строитель",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.78333,
+    "longitude": 36.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Струнино",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.37333,
+    "longitude": 38.585,
+    "timezone": 0
+  },
+  {
+    "name": "Ступино",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 54.88694,
+    "longitude": 38.07722,
+    "timezone": 0
+  },
+  {
+    "name": "Суворов",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.11667,
+    "longitude": 36.5,
+    "timezone": 0
+  },
+  {
+    "name": "Судак",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 44.85139,
+    "longitude": 34.9725,
+    "timezone": 0
+  },
+  {
+    "name": "Суджа",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 51.190694,
+    "longitude": 35.27083,
+    "timezone": 0
+  },
+  {
+    "name": "Судогда",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 55.95,
+    "longitude": 40.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Суздаль",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.42111,
+    "longitude": 40.44889,
+    "timezone": 0
+  },
+  {
+    "name": "Сунжа",
+    "subject": "Ингушетия",
+    "district": "Северо-Кавказский",
+    "latitude": 43.313475,
+    "longitude": 45.051581,
+    "timezone": 0
+  },
+  {
+    "name": "Суоярви",
+    "subject": "Карелия",
+    "district": "Северо-Западный",
+    "latitude": 62.08333,
+    "longitude": 32.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Сураж",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.01667,
+    "longitude": 32.4,
+    "timezone": 0
+  },
+  {
+    "name": "Сургут",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.25,
+    "longitude": 73.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Суровикино",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 48.6,
+    "longitude": 42.85,
+    "timezone": 0
+  },
+  {
+    "name": "Сурск",
+    "subject": "Пензенская область",
+    "district": "Приволжский",
+    "latitude": 53.08333,
+    "longitude": 45.7,
+    "timezone": 0
+  },
+  {
+    "name": "Сусуман",
+    "subject": "Магаданская область",
+    "district": "Дальневосточный",
+    "latitude": 62.78333,
+    "longitude": 148.15,
+    "timezone": 0
+  },
+  {
+    "name": "Сухиничи",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.1,
+    "longitude": 35.35,
+    "timezone": 0
+  },
+  {
+    "name": "Сухой Лог",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.90583,
+    "longitude": 62.03417,
+    "timezone": 0
+  },
+  {
+    "name": "Сызрань",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.16667,
+    "longitude": 48.46667,
+    "timezone": 0
+  },
+  {
+    "name": "Сыктывкар",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 61.66667,
+    "longitude": 50.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Сысерть",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 56.5,
+    "longitude": 60.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Сычёвка",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.83333,
+    "longitude": 34.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Сясьстрой",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 60.13333,
+    "longitude": 32.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Тавда",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.05,
+    "longitude": 65.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Таганрог",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.23917,
+    "longitude": 38.88333,
+    "timezone": 0
+  },
+  {
+    "name": "Тайга",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 56.06667,
+    "longitude": 85.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Тайшет",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 55.93333,
+    "longitude": 98.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Талдом",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.73333,
+    "longitude": 37.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Талица",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 57.0125,
+    "longitude": 63.72917,
+    "timezone": 0
+  },
+  {
+    "name": "Тамбов",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 52.71667,
+    "longitude": 41.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Тара",
+    "subject": "Омская область",
+    "district": "Сибирский",
+    "latitude": 56.902383,
+    "longitude": 74.37079,
+    "timezone": 0
+  },
+  {
+    "name": "Тарко-Сале",
+    "subject": "Ямало-Ненецкий АО",
+    "district": "Уральский",
+    "latitude": 64.91472,
+    "longitude": 77.77278,
+    "timezone": 0
+  },
+  {
+    "name": "Таруса",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.71667,
+    "longitude": 37.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Татарск",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.21667,
+    "longitude": 75.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Таштагол",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 52.76667,
+    "longitude": 87.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Тверь",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.8578278,
+    "longitude": 35.9219278,
+    "timezone": 0
+  },
+  {
+    "name": "Теберда",
+    "subject": "Карачаево-Черкесия",
+    "district": "Северо-Кавказский",
+    "latitude": 43.449437,
+    "longitude": 41.74382,
+    "timezone": 0
+  },
+  {
+    "name": "Тейково",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 56.85,
+    "longitude": 40.55,
+    "timezone": 0
+  },
+  {
+    "name": "Темников",
+    "subject": "Мордовия",
+    "district": "Приволжский",
+    "latitude": 54.63333,
+    "longitude": 43.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Темрюк",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.26667,
+    "longitude": 37.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Терек",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.48333,
+    "longitude": 44.13889,
+    "timezone": 0
+  },
+  {
+    "name": "Тетюши",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 54.93333,
+    "longitude": 48.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Тимашёвск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.61667,
+    "longitude": 38.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Тихвин",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.63333,
+    "longitude": 33.5,
+    "timezone": 0
+  },
+  {
+    "name": "Тихорецк",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.85,
+    "longitude": 40.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Тобольск",
+    "subject": "Тюменская область",
+    "district": "Уральский",
+    "latitude": 58.19528,
+    "longitude": 68.25806,
+    "timezone": 0
+  },
+  {
+    "name": "Тогучин",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.23333,
+    "longitude": 84.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Тольятти",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 53.51667,
+    "longitude": 49.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Томари",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 47.76667,
+    "longitude": 142.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Томмот",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 58.96667,
+    "longitude": 126.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Томск",
+    "subject": "Томская область",
+    "district": "Сибирский",
+    "latitude": 56.48861,
+    "longitude": 84.95222,
+    "timezone": 0
+  },
+  {
+    "name": "Топки",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 55.28333,
+    "longitude": 85.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Торжок",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.03333,
+    "longitude": 34.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Торопец",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 56.5,
+    "longitude": 31.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Тосно",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.55,
+    "longitude": 30.9,
+    "timezone": 0
+  },
+  {
+    "name": "Тотьма",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.98333,
+    "longitude": 42.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Троицк",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.08333,
+    "longitude": 61.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Трубчевск",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.58333,
+    "longitude": 33.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Трёхгорный",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.8,
+    "longitude": 58.45,
+    "timezone": 0
+  },
+  {
+    "name": "Туапсе",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.1,
+    "longitude": 39.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Туймазы",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 54.6,
+    "longitude": 53.7,
+    "timezone": 0
+  },
+  {
+    "name": "Тула",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.2,
+    "longitude": 37.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Тулун",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 54.56667,
+    "longitude": 100.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Туран",
+    "subject": "Тыва",
+    "district": "Сибирский",
+    "latitude": 52.1446,
+    "longitude": 93.9181,
+    "timezone": 0
+  },
+  {
+    "name": "Туринск",
+    "subject": "Свердловская область",
+    "district": "Уральский",
+    "latitude": 58.03333,
+    "longitude": 63.7,
+    "timezone": 0
+  },
+  {
+    "name": "Тутаев",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 57.88333,
+    "longitude": 39.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Тында",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 55.15,
+    "longitude": 124.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Тырныауз",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.3892664,
+    "longitude": 42.9189065,
+    "timezone": 0
+  },
+  {
+    "name": "Тюкалинск",
+    "subject": "Омская область",
+    "district": "Сибирский",
+    "latitude": 55.86667,
+    "longitude": 72.2,
+    "timezone": 0
+  },
+  {
+    "name": "Тюмень",
+    "subject": "Тюменская область",
+    "district": "Уральский",
+    "latitude": 57.15,
+    "longitude": 65.53333,
+    "timezone": 0
+  },
+  {
+    "name": "Уварово",
+    "subject": "Тамбовская область",
+    "district": "Центральный",
+    "latitude": 51.98333,
+    "longitude": 42.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Углегорск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 49.06667,
+    "longitude": 142.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Углич",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 57.53333,
+    "longitude": 38.33333,
+    "timezone": 0
+  },
+  {
+    "name": "Удачный",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 66.4,
+    "longitude": 112.3,
+    "timezone": 0
+  },
+  {
+    "name": "Удомля",
+    "subject": "Тверская область",
+    "district": "Центральный",
+    "latitude": 57.88333,
+    "longitude": 35.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Ужур",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 55.31667,
+    "longitude": 89.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Узловая",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 53.9791417,
+    "longitude": 38.1600833,
+    "timezone": 0
+  },
+  {
+    "name": "Улан-Удэ",
+    "subject": "Бурятия",
+    "district": "Сибирский",
+    "latitude": 51.83333,
+    "longitude": 107.61667,
+    "timezone": 0
+  },
+  {
+    "name": "Ульяновск",
+    "subject": "Ульяновская область",
+    "district": "Приволжский",
+    "latitude": 54.31667,
+    "longitude": 48.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Унеча",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 52.85,
+    "longitude": 32.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Урай",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 60.13333,
+    "longitude": 64.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Урень",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 57.46667,
+    "longitude": 45.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Уржум",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 57.11667,
+    "longitude": 50,
+    "timezone": 0
+  },
+  {
+    "name": "Урус-Мартан",
+    "subject": "Чечня",
+    "district": "Северо-Кавказский",
+    "latitude": 43.129123,
+    "longitude": 45.54167,
+    "timezone": 0
+  },
+  {
+    "name": "Урюпинск",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 50.8,
+    "longitude": 42.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Усинск",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 65.995028,
+    "longitude": 57.557139,
+    "timezone": 0
+  },
+  {
+    "name": "Усмань",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 52.05,
+    "longitude": 39.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Усолье-Сибирское",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 52.75,
+    "longitude": 103.65,
+    "timezone": 0
+  },
+  {
+    "name": "Усолье",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 59.41667,
+    "longitude": 56.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Уссурийск",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 43.8,
+    "longitude": 131.95,
+    "timezone": 0
+  },
+  {
+    "name": "Усть-Джегута",
+    "subject": "Карачаево-Черкесия",
+    "district": "Северо-Кавказский",
+    "latitude": 44.08611,
+    "longitude": 41.97194,
+    "timezone": 0
+  },
+  {
+    "name": "Усть-Илимск",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 58,
+    "longitude": 102.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Усть-Катав",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.93333,
+    "longitude": 58.16667,
+    "timezone": 0
+  },
+  {
+    "name": "Усть-Кут",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 56.8,
+    "longitude": 105.83333,
+    "timezone": 0
+  },
+  {
+    "name": "Усть-Лабинск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 45.21528,
+    "longitude": 39.68944,
+    "timezone": 0
+  },
+  {
+    "name": "Устюжна",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 58.83333,
+    "longitude": 36.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Уфа",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 54.73333,
+    "longitude": 55.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Ухта",
+    "subject": "Коми",
+    "district": "Северо-Западный",
+    "latitude": 63.56667,
+    "longitude": 53.7,
+    "timezone": 0
+  },
+  {
+    "name": "Учалы",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 54.31667,
+    "longitude": 59.38333,
+    "timezone": 0
+  },
+  {
+    "name": "Уяр",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 55.81667,
+    "longitude": 94.31667,
+    "timezone": 0
+  },
+  {
+    "name": "Фатеж",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 52.08944,
+    "longitude": 35.85889,
+    "timezone": 0
+  },
+  {
+    "name": "Феодосия",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.04889,
+    "longitude": 35.37917,
+    "timezone": 0
+  },
+  {
+    "name": "Фокино",
+    "subject": "Брянская область",
+    "district": "Центральный",
+    "latitude": 53.45,
+    "longitude": 34.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Фокино",
+    "subject": "Приморский край",
+    "district": "Дальневосточный",
+    "latitude": 42.96667,
+    "longitude": 132.4,
+    "timezone": 0
+  },
+  {
+    "name": "Фролово",
+    "subject": "Волгоградская область",
+    "district": "Южный",
+    "latitude": 49.76667,
+    "longitude": 43.65,
+    "timezone": 0
+  },
+  {
+    "name": "Фрязино",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.95,
+    "longitude": 38.05,
+    "timezone": 0
+  },
+  {
+    "name": "Фурманов",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.25,
+    "longitude": 41.1,
+    "timezone": 0
+  },
+  {
+    "name": "Хабаровск",
+    "subject": "Хабаровский край",
+    "district": "Дальневосточный",
+    "latitude": 48.48333,
+    "longitude": 135.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Хадыженск",
+    "subject": "Краснодарский край",
+    "district": "Южный",
+    "latitude": 44.42389,
+    "longitude": 39.53722,
+    "timezone": 0
+  },
+  {
+    "name": "Ханты-Мансийск",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61,
+    "longitude": 69,
+    "timezone": 0
+  },
+  {
+    "name": "Харабали",
+    "subject": "Астраханская область",
+    "district": "Южный",
+    "latitude": 47.4,
+    "longitude": 47.25,
+    "timezone": 0
+  },
+  {
+    "name": "Харовск",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.95,
+    "longitude": 40.2,
+    "timezone": 0
+  },
+  {
+    "name": "Хасавюрт",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 43.25,
+    "longitude": 46.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Хвалынск",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 52.48333,
+    "longitude": 48.1,
+    "timezone": 0
+  },
+  {
+    "name": "Хилок",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 51.35,
+    "longitude": 110.45,
+    "timezone": 0
+  },
+  {
+    "name": "Химки",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.88917,
+    "longitude": 37.445,
+    "timezone": 0
+  },
+  {
+    "name": "Холм",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 57.15,
+    "longitude": 31.18333,
+    "timezone": 0
+  },
+  {
+    "name": "Холмск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 47.04028,
+    "longitude": 142.04306,
+    "timezone": 0
+  },
+  {
+    "name": "Хотьково",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.25,
+    "longitude": 37.98333,
+    "timezone": 0
+  },
+  {
+    "name": "Цивильск",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 55.86667,
+    "longitude": 47.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Цимлянск",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.64667,
+    "longitude": 42.09472,
+    "timezone": 0
+  },
+  {
+    "name": "Циолковский",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 51.7602528,
+    "longitude": 128.121175,
+    "timezone": 0
+  },
+  {
+    "name": "Чадан",
+    "subject": "Тыва",
+    "district": "Сибирский",
+    "latitude": 51.28333,
+    "longitude": 91.56667,
+    "timezone": 0
+  },
+  {
+    "name": "Чайковский",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 56.76667,
+    "longitude": 54.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Чапаевск",
+    "subject": "Самарская область",
+    "district": "Приволжский",
+    "latitude": 52.98333,
+    "longitude": 49.71667,
+    "timezone": 0
+  },
+  {
+    "name": "Чаплыгин",
+    "subject": "Липецкая область",
+    "district": "Центральный",
+    "latitude": 53.24167,
+    "longitude": 39.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Чебаркуль",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.97778,
+    "longitude": 60.37,
+    "timezone": 0
+  },
+  {
+    "name": "Чебоксары",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 56.11667,
+    "longitude": 47.23333,
+    "timezone": 0
+  },
+  {
+    "name": "Чегем",
+    "subject": "Кабардино-Балкария",
+    "district": "Северо-Кавказский",
+    "latitude": 43.566657,
+    "longitude": 43.583325,
+    "timezone": 0
+  },
+  {
+    "name": "Чекалин",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.1,
+    "longitude": 36.25,
+    "timezone": 0
+  },
+  {
+    "name": "Челябинск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 55.16222,
+    "longitude": 61.40306,
+    "timezone": 0
+  },
+  {
+    "name": "Чердынь",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 60.4,
+    "longitude": 56.48333,
+    "timezone": 0
+  },
+  {
+    "name": "Черемхово",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 53.15,
+    "longitude": 103.06667,
+    "timezone": 0
+  },
+  {
+    "name": "Черепаново",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 54.21667,
+    "longitude": 83.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Череповец",
+    "subject": "Вологодская область",
+    "district": "Северо-Западный",
+    "latitude": 59.11667,
+    "longitude": 37.9,
+    "timezone": 0
+  },
+  {
+    "name": "Черкесск",
+    "subject": "Карачаево-Черкесия",
+    "district": "Северо-Кавказский",
+    "latitude": 44.213888,
+    "longitude": 42.04431,
+    "timezone": 0
+  },
+  {
+    "name": "Черноголовка",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.01472,
+    "longitude": 38.38972,
+    "timezone": 0
+  },
+  {
+    "name": "Черногорск",
+    "subject": "Хакасия",
+    "district": "Сибирский",
+    "latitude": 53.81667,
+    "longitude": 91.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Чернушка",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 56.5,
+    "longitude": 56.08333,
+    "timezone": 0
+  },
+  {
+    "name": "Черняховск",
+    "subject": "Калининградская область",
+    "district": "Северо-Западный",
+    "latitude": 54.63333,
+    "longitude": 21.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Чехов",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.145,
+    "longitude": 37.45556,
+    "timezone": 0
+  },
+  {
+    "name": "Чистополь",
+    "subject": "Татарстан",
+    "district": "Приволжский",
+    "latitude": 55.36667,
+    "longitude": 50.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Чита",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 52.03333,
+    "longitude": 113.5,
+    "timezone": 0
+  },
+  {
+    "name": "Чкаловск",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 56.76667,
+    "longitude": 43.25,
+    "timezone": 0
+  },
+  {
+    "name": "Чудово",
+    "subject": "Новгородская область",
+    "district": "Северо-Западный",
+    "latitude": 59.12806,
+    "longitude": 31.65917,
+    "timezone": 0
+  },
+  {
+    "name": "Чулым",
+    "subject": "Новосибирская область",
+    "district": "Сибирский",
+    "latitude": 55.1,
+    "longitude": 80.96667,
+    "timezone": 0
+  },
+  {
+    "name": "Чусовой",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.28333,
+    "longitude": 57.81667,
+    "timezone": 0
+  },
+  {
+    "name": "Чухлома",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 58.75,
+    "longitude": 42.7,
+    "timezone": 0
+  },
+  {
+    "name": "Чёрмоз",
+    "subject": "Пермский край",
+    "district": "Приволжский",
+    "latitude": 58.78333,
+    "longitude": 56.15,
+    "timezone": 0
+  },
+  {
+    "name": "Шагонар",
+    "subject": "Тыва",
+    "district": "Сибирский",
+    "latitude": 51.53333,
+    "longitude": 92.9,
+    "timezone": 0
+  },
+  {
+    "name": "Шадринск",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 56.08333,
+    "longitude": 63.63333,
+    "timezone": 0
+  },
+  {
+    "name": "Шали",
+    "subject": "Чечня",
+    "district": "Северо-Кавказский",
+    "latitude": 43.145,
+    "longitude": 45.903847,
+    "timezone": 0
+  },
+  {
+    "name": "Шарыпово",
+    "subject": "Красноярский край",
+    "district": "Сибирский",
+    "latitude": 55.525,
+    "longitude": 89.2,
+    "timezone": 0
+  },
+  {
+    "name": "Шарья",
+    "subject": "Костромская область",
+    "district": "Центральный",
+    "latitude": 58.36667,
+    "longitude": 45.5,
+    "timezone": 0
+  },
+  {
+    "name": "Шатура",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.5776722,
+    "longitude": 39.5446333,
+    "timezone": 0
+  },
+  {
+    "name": "Шахты",
+    "subject": "Ростовская область",
+    "district": "Южный",
+    "latitude": 47.7122111,
+    "longitude": 40.2083694,
+    "timezone": 0
+  },
+  {
+    "name": "Шахунья",
+    "subject": "Нижегородская область",
+    "district": "Приволжский",
+    "latitude": 57.67472,
+    "longitude": 46.62083,
+    "timezone": 0
+  },
+  {
+    "name": "Шацк",
+    "subject": "Рязанская область",
+    "district": "Центральный",
+    "latitude": 54.03333,
+    "longitude": 41.7,
+    "timezone": 0
+  },
+  {
+    "name": "Шебекино",
+    "subject": "Белгородская область",
+    "district": "Центральный",
+    "latitude": 50.40778,
+    "longitude": 36.89694,
+    "timezone": 0
+  },
+  {
+    "name": "Шелехов",
+    "subject": "Иркутская область",
+    "district": "Сибирский",
+    "latitude": 52.2,
+    "longitude": 104.1,
+    "timezone": 0
+  },
+  {
+    "name": "Шенкурск",
+    "subject": "Архангельская область",
+    "district": "Северо-Западный",
+    "latitude": 62.1,
+    "longitude": 42.9,
+    "timezone": 0
+  },
+  {
+    "name": "Шилка",
+    "subject": "Забайкальский край",
+    "district": "Сибирский",
+    "latitude": 51.85,
+    "longitude": 116.03333,
+    "timezone": 0
+  },
+  {
+    "name": "Шимановск",
+    "subject": "Амурская область",
+    "district": "Дальневосточный",
+    "latitude": 52,
+    "longitude": 127.66667,
+    "timezone": 0
+  },
+  {
+    "name": "Шиханы",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 52.1137809,
+    "longitude": 47.199229,
+    "timezone": 0
+  },
+  {
+    "name": "Шлиссельбург",
+    "subject": "Ленинградская область",
+    "district": "Северо-Западный",
+    "latitude": 59.941819,
+    "longitude": 31.034363,
+    "timezone": 0
+  },
+  {
+    "name": "Шумерля",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 55.5,
+    "longitude": 46.41667,
+    "timezone": 0
+  },
+  {
+    "name": "Шумиха",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 55.23333,
+    "longitude": 63.28333,
+    "timezone": 0
+  },
+  {
+    "name": "Шуя",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 56.85,
+    "longitude": 41.36667,
+    "timezone": 0
+  },
+  {
+    "name": "Щигры",
+    "subject": "Курская область",
+    "district": "Центральный",
+    "latitude": 51.88111,
+    "longitude": 36.90306,
+    "timezone": 0
+  },
+  {
+    "name": "Щучье",
+    "subject": "Курганская область",
+    "district": "Уральский",
+    "latitude": 55.21667,
+    "longitude": 62.76667,
+    "timezone": 0
+  },
+  {
+    "name": "Щёкино",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54,
+    "longitude": 37.51667,
+    "timezone": 0
+  },
+  {
+    "name": "Щёлкино",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 45.42361,
+    "longitude": 35.81861,
+    "timezone": 0
+  },
+  {
+    "name": "Щёлково",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.91667,
+    "longitude": 38,
+    "timezone": 0
+  },
+  {
+    "name": "Электрогорск",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.88333,
+    "longitude": 38.78333,
+    "timezone": 0
+  },
+  {
+    "name": "Электросталь",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.8,
+    "longitude": 38.45,
+    "timezone": 0
+  },
+  {
+    "name": "Электроугли",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 55.71667,
+    "longitude": 38.21667,
+    "timezone": 0
+  },
+  {
+    "name": "Элиста",
+    "subject": "Калмыкия",
+    "district": "Южный",
+    "latitude": 46.31667,
+    "longitude": 44.26667,
+    "timezone": 0
+  },
+  {
+    "name": "Энгельс",
+    "subject": "Саратовская область",
+    "district": "Приволжский",
+    "latitude": 51.46667,
+    "longitude": 46.11667,
+    "timezone": 0
+  },
+  {
+    "name": "Эртиль",
+    "subject": "Воронежская область",
+    "district": "Центральный",
+    "latitude": 51.83333,
+    "longitude": 40.8,
+    "timezone": 0
+  },
+  {
+    "name": "Югорск",
+    "subject": "Ханты-Мансийский АО \u2014 Югра",
+    "district": "Уральский",
+    "latitude": 61.31667,
+    "longitude": 63.35,
+    "timezone": 0
+  },
+  {
+    "name": "Южа",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 56.58333,
+    "longitude": 42.01667,
+    "timezone": 0
+  },
+  {
+    "name": "Южно-Сахалинск",
+    "subject": "Сахалинская область",
+    "district": "Дальневосточный",
+    "latitude": 46.95,
+    "longitude": 142.73333,
+    "timezone": 0
+  },
+  {
+    "name": "Южно-Сухокумск",
+    "subject": "Дагестан",
+    "district": "Северо-Кавказский",
+    "latitude": 44.66667,
+    "longitude": 45.65,
+    "timezone": 0
+  },
+  {
+    "name": "Южноуральск",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.45,
+    "longitude": 61.25,
+    "timezone": 0
+  },
+  {
+    "name": "Юрга",
+    "subject": "Кемеровская область",
+    "district": "Сибирский",
+    "latitude": 55.73333,
+    "longitude": 84.9,
+    "timezone": 0
+  },
+  {
+    "name": "Юрьев-Польский",
+    "subject": "Владимирская область",
+    "district": "Центральный",
+    "latitude": 56.5,
+    "longitude": 39.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Юрьевец",
+    "subject": "Ивановская область",
+    "district": "Центральный",
+    "latitude": 57.31667,
+    "longitude": 43.1,
+    "timezone": 0
+  },
+  {
+    "name": "Юрюзань",
+    "subject": "Челябинская область",
+    "district": "Уральский",
+    "latitude": 54.86667,
+    "longitude": 58.43333,
+    "timezone": 0
+  },
+  {
+    "name": "Юхнов",
+    "subject": "Калужская область",
+    "district": "Центральный",
+    "latitude": 54.75,
+    "longitude": 35.23333,
+    "timezone": 0
+  },
+  {
+    "name": "Ядрин",
+    "subject": "Чувашия",
+    "district": "Приволжский",
+    "latitude": 55.95,
+    "longitude": 46.2,
+    "timezone": 0
+  },
+  {
+    "name": "Якутск",
+    "subject": "Якутия",
+    "district": "Дальневосточный",
+    "latitude": 62.02722,
+    "longitude": 129.73194,
+    "timezone": 0
+  },
+  {
+    "name": "Ялта",
+    "subject": "Крым",
+    "district": "Южный",
+    "latitude": 44.49944,
+    "longitude": 34.15528,
+    "timezone": 0
+  },
+  {
+    "name": "Ялуторовск",
+    "subject": "Тюменская область",
+    "district": "Уральский",
+    "latitude": 56.65,
+    "longitude": 66.3,
+    "timezone": 0
+  },
+  {
+    "name": "Янаул",
+    "subject": "Башкортостан",
+    "district": "Приволжский",
+    "latitude": 56.26667,
+    "longitude": 54.93333,
+    "timezone": 0
+  },
+  {
+    "name": "Яранск",
+    "subject": "Кировская область",
+    "district": "Приволжский",
+    "latitude": 57.303306,
+    "longitude": 47.868806,
+    "timezone": 0
+  },
+  {
+    "name": "Яровое",
+    "subject": "Алтайский край",
+    "district": "Сибирский",
+    "latitude": 52.93333,
+    "longitude": 78.58333,
+    "timezone": 0
+  },
+  {
+    "name": "Ярославль",
+    "subject": "Ярославская область",
+    "district": "Центральный",
+    "latitude": 57.61667,
+    "longitude": 39.85,
+    "timezone": 0
+  },
+  {
+    "name": "Ярцево",
+    "subject": "Смоленская область",
+    "district": "Центральный",
+    "latitude": 55.06667,
+    "longitude": 32.68333,
+    "timezone": 0
+  },
+  {
+    "name": "Ясногорск",
+    "subject": "Тульская область",
+    "district": "Центральный",
+    "latitude": 54.4793833,
+    "longitude": 37.6933556,
+    "timezone": 0
+  },
+  {
+    "name": "Ясный",
+    "subject": "Оренбургская область",
+    "district": "Приволжский",
+    "latitude": 51.03333,
+    "longitude": 59.86667,
+    "timezone": 0
+  },
+  {
+    "name": "Яхрома",
+    "subject": "Московская область",
+    "district": "Центральный",
+    "latitude": 56.28333,
+    "longitude": 37.48333,
+    "timezone": 0
+  }
+]
